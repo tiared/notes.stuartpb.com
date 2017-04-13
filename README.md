@@ -21,3 +21,5 @@ also maybe I should move this to Glitch
 hmm actually that's an interesting point, maybe I'll just make an app that displays the working contents of md files in a Glitch project
 
 anyway that should go in an issue or something, but yah hi this is the repo where everything is a terrible mess
+
+ALSO I'd be remiss if I didn't explicitly shout out Jenn Schiffer here, who makes me feel completely OK with making work that's personal and important but gives zero shits about being polished beyond what I want to convey
