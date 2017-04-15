@@ -14,7 +14,7 @@ ok so I've got that, but I'm not wild about the style yet. what I'd really like 
 
 or maybe the inotifywait just makes the index check, and then we reset the clock every time there's an inotification, and then once the clock is up we add and commit push
 
-also maybe the commit message should be the datetime and/or time elapsed since last commit, or maybe a git-slum or oneline
+also maybe the commit message should be the datetime and/or time elapsed since last commit, or maybe a git-slum and/or oneline-diff 
 
 
 i think the simplest way, to make it so inotifywait and timeout don't have to come in as deps, is to just do ten-second sleep loops on the check, have a priming function that populates the index, and then fires after X cycles have gone by with no changes from the index or something like that
