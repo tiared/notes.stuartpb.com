@@ -4,7 +4,7 @@ TIMER=300
 
 autocommit () {
   if ! git diff-index --quiet HEAD -- ; then
-    git add . && git commit -m 'autocommit' && git push -f
+    git add -A && git commit -m 'autocommit' && git push -f
   fi
 }
 
