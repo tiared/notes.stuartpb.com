@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-TIMER=300
+TIMER=10
 
 autocommit () {
   if ! git diff-index --quiet HEAD -- ; then
