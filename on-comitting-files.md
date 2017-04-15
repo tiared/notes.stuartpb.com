@@ -19,4 +19,4 @@ also maybe the commit message should be the datetime and/or time elapsed since l
 
 i think the simplest way, to make it so inotifywait and timeout don't have to come in as deps, is to just do ten-second sleep loops on the check, have a priming function that populates the index, and then fires after X cycles have gone by with no changes from the index or something like that
 
-also, should probably GC
+also, should probably GC more frequently if we're going to be generating a lot of 
