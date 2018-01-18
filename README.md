@@ -14,8 +14,6 @@ Anyway, the reason it's called barfspace is because I intend the bulk of the con
 
 The workspace is public, so here's where you can see this freakshow: https://ide.c9.io/stuartpb/barfspace
 
-I need to sleep right now, maybe this'll turn into something, the way all crappy crap-fields become kingdoms (see: Linux, Git, Wikipedia, Python 2, Perl 5, the web) and all beautiful shrines become ashes and ghosts (see: MULTICS, HURD, Python 3, Perl 6, vaporware in general).
-
 also maybe I should move this to Glitch
 
 hmm actually that's an interesting point, maybe I'll just make an app that displays the working contents of md files in a Glitch project
