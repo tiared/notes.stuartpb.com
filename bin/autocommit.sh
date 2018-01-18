@@ -1,9 +1,11 @@
 #! /usr/bin/env bash
+set -e
 
 TIMER=10
 
 autocommit () {
-  if ! git diff --quiet; then
+  dirt=$(git ls-files -dmo --exclude-standard)
+  if [[ -n "$dirt" ]]; then
     git add -A &&
       git commit -m "$($(dirname "$0")/../vendor/git-slum --staged)" &&
       git push -f
