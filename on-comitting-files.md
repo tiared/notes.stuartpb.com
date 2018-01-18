@@ -23,4 +23,6 @@ also, should probably GC more frequently if we're going to be generating a lot o
 
 ---
 
-I should just file an issue for all this cra
+I should just file an issue for all this crap
+
+yeah I should move autocomitter brainstorming to an issue.,
