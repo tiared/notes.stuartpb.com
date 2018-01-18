@@ -1,0 +1,5 @@
+it'd be interesting to write about the inherent paradox of infosec, how the most credible opinions are the shadowiest ones, if something has accreditation from a bunch of Java nerds that's not a good sign, even though a business suit would think it is, and what you really want is professors and anonymous punk hackers with no business connections that would compromise their judgment
+
+and how the worst products are the equivalent of "we put a really cool book of puzzles in front of this door, any thief would have no choice but to get lost in solving this book of mazes and Sudoku before they turned the knob", because they have no interest in admitting "if you gave even half a shit you'd ignore this"
+
+how much cpu does it take to solve a sudoku puzzle or brute force a SHA256 versus some other semi-intensive pedestrian task like decompressing HEVC or even an MP3. "that sounds hard, but it takes a computer half as long to solve a sudoku puzzle as it does to enlarge this JPG of Justin Roiland by an inch"
