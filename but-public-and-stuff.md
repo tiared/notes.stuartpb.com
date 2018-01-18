@@ -13,4 +13,6 @@ Also should remember to set it up so it doesn't try to git commit when rebasing,
 
 (or really it's for when I'm worried that my earlier drafts would make me sound like an asshole and I don't want folks seeing them because, well, yeah, I don't like being misunderstood, that's totally My Thing, I've had enough therapy to accept that)
 
-wait but that assumes that I've got autocommit turned on all the time, which is, uh, not how I do this
+---
+
+uh yeah I can always rebase so long as autocommitting is run by a stoppable daemon running in the console where I put my changes together
