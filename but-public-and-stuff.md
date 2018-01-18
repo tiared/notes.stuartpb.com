@@ -12,3 +12,5 @@ to update the README to explain what's going on. Phew, for a sec I'd forgotten w
 Also should remember to set it up so it doesn't try to git commit when rebasing, which is gonna be TOTALLY NECESSARY if I decide I need to purge something I didn't want comitted from history (like if I just idly write swear words while I'm trying to remember what I was going to type and it pushes that and now everybody sees what a potty mouth I am)
 
 (or really it's for when I'm worried that my earlier drafts would make me sound like an asshole and I don't want folks seeing them because, well, yeah, I don't like being misunderstood, that's totally My Thing, I've had enough therapy to accept that)
+
+wait but that assumes that I've got autocommit turned on all the time, which is, uh, not how I do this
