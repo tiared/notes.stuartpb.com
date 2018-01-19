@@ -11,3 +11,5 @@ but yeah perfectionism and, like, "sucking at something's being the first step a
 I should really make a note somewhere for anybody who's worried about how messy these are that I have a rule that I only work on this repository when I'm sober (partially because the autocommit script commits and forcepushes everything I write to a public GitHub repo every ten seconds, lol)
 
 Okay, so, like, a thing is, I kind of feel trapped in this style. Like, if I've got all these commits, and they're messy, and then I've got other commits where I'm trying *not* to be messy?
+
+Yeah, like, I think *this* was the big thing I was trying to avoid by not having an autocommit script... I wanted it to be 
