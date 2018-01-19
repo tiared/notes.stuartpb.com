@@ -1,8 +1,4 @@
 #! /usr/bin/env bash
-set -e
-
-# hide all keystrokes while this command is running
-stty -echo
 
 # How frequently to check if the working tree has changed.
 TICK=1
@@ -12,6 +8,12 @@ FUSETIME=10
 DANCEMOVES=(
   $'\e[1;93m'"^('-')^"$'\e[0m'
   $'\e[1;93m'"v('-')v"$'\e[0m')
+
+# Exit if any non-test commands fail
+set -e
+
+# Hide all keystrokes while this command is running
+stty -echo
 
 git-slum-staged () {
   $(dirname "$0")/../vendor/git-slum --staged
@@ -48,7 +50,6 @@ roll-index () {
   echo
   while ((SHOTCLOCK <= FUSETIME)); do
 
-    # reset the shotclock whenever there are unstaged changes
     if unstaged-changes; then
       git add -A
       SHOTCLOCK=0
