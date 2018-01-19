@@ -15,3 +15,5 @@ okay I reset the timer because the way Cloud9 autosaves, it waits until you've s
 This can still be a problem if I go a full ten seconds without a break when typing, but I think that's kind of rare, and in that case I kind of do want it to commit and push the changes since the last pause in typing anyway, so...
 
 anyway stopping here to do that move I was talking about doing earlier
+
+You know, now that  I think about it, maybe I should have the polling be every second, and there's just a 
