@@ -6,7 +6,7 @@ set -e
 # How frequently to check if the working tree has changed.
 POLL=1
 # How long to wait for changes to settle before cutting a commit.
-SETTLE=5
+SETTLE=10
 
 roll_index () {
   # while there are unstaged changes
