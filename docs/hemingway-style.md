@@ -4,7 +4,7 @@ I mean, a lot of the files in here are kind of clumsy musings around this idea, 
 
 I think someone made an app called "Hemingway" that actually had the backspace key disabled under the philosophy of Hemingway's line "Write drunk, edit sober", so that, like, fixing mistakes involved an explicit context switch?
 
-UPDATE: while there is a Hemingway app that attempts to mimic Ernest Hemingway's philosophy, and it does have both "Write" and "Edit" modes, the "Write" mode doesn't disable backspace (though that might be a feature they patched out in one of their newer versions - they don't keep a changelog, grr - see unstuck-in-time.md), and apparently the "write drunk, edit sober" line is apocryphal (which could be why they removed it - I can't find any record of an app like the one I'm describing on Google, so it's probably this one.)
+UPDATE: while there is a Hemingway app that attempts to mimic Ernest Hemingway's philosophy, and it does have both "Write" and "Edit" modes, the "Write" mode doesn't disable backspace (though that might be a feature they patched out in one of their newer versions - they don't keep a changelog, grr - see unstuck-in-time.md), and apparently the "write drunk, edit sober" line is apocryphal (which could be why they removed it - I can't find any record of an app like the one I'm describing on Google, so if it did ever exist, it was probably this one.)
 
 Anyway that's basically what led to me writing the autocommit script (and not giving a crap that it's clumsy)
 
