@@ -5,15 +5,28 @@ set -e
 
 # How frequently to check if the working tree has changed.
 POLL=1
-# How long to wait for changes to settle before cutting a commit.
+# How many polls to wait for changes to settle before cutting a commit.
 SETTLE=10
 
 roll_index () {
-  # while there are unstaged changes
-  while git status --porcelain | grep -q '^.[^ ]'; do
-    echo -n '.'
-    git add -A
-    sleep "$SETTLE"
+  local SHOTCLOCK
+  while (( SHOTCLOCK <= SETTLE )); do
+    # reset the shotclock whenever there are unstaged changes
+    if git status --porcelain | grep -q '^.[^ ]'; then
+      git add -A
+      SHOTCLOCK=0
+    fi
+    echo -n $'\rBuilding commit'
+    for ((i = 0; i < SETTLE; ++i)); do
+      if ((i < SHOTCLOCK)); then
+        echo -n '.'
+      else
+        echo -n ' '
+      fi
+    done
+    echo -n $'\e[1;31m!\e[0m'
+    SHOTCLOCK=$((SHOTCLOCK + 1))
+    if ((SHOTCLOCK <= SETTLE)); then sleep "$POLL"; fi
   done
 }
 
@@ -21,7 +34,6 @@ autocommit () {
   dirt=$(git ls-files -dmo --exclude-standard)
   if [[ -n "$dirt" ]]; then
     echo
-    echo -n 'Building commit..'
     roll_index
     echo
     git commit -m "$($(dirname "$0")/../vendor/git-slum --staged)" &&
@@ -37,6 +49,6 @@ DANCEMOVES=(
 autocommit
 while sleep "$POLL"; do
   echo -n $'\r'"Watching for changes... ${DANCEMOVES[DANCESTEP]} "
-  DANCESTEP=$(((DANCESTEP + 1) % ${#DANCEMOVES[@]}))
+  DANCESTEP=$(( (DANCESTEP + 1) % ${#DANCEMOVES[@]} ))
   autocommit
 done
