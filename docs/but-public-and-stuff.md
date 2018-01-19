@@ -1,3 +1,8 @@
+ughhhhh I should delete this file but there are like two things in it that I actually want to keep, somewhere
+
+TODO delete this file
+
+---
 
 i love the idea of a blog where all the posts are just not even finished or in any kind of order and constantly changing, like even live-updating
 
