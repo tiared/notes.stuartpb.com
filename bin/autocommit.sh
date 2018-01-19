@@ -64,6 +64,7 @@ roll-index () {
     SHOTCLOCK=$((SHOTCLOCK + 1))
     if ((SHOTCLOCK <= FUSETIME)); then
       if key-pressed-in-tick; then
+        git add -A
         SHOTCLOCK=$FUSETIME
       fi
     fi
