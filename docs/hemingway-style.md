@@ -15,3 +15,7 @@ Okay, so, like, a thing is, I kind of feel trapped in this style. Like, if I've 
 Yeah, like, I think *this* was the big thing I was trying to avoid by not having an autocommit script... I wanted it to be a thing where I'm always working on having the contents of the directory make sense *eventually*
 
 Which is a thing I kind of touched on in the-thing-about-weird-twitter, I started talking about how just barfing everything all the time in a mania isn't helpful
+
+You know... I think "autocommit on" and "autocommit off" are kind of my two Hemingway modes for this repo. I can turn autocommit off when I know what I'm writing, and I can turn it on for when I'm dragging my feet on shipping.
+
+nice
