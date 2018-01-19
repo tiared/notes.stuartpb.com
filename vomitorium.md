@@ -12,4 +12,4 @@ fun fact, after I committed the timeout script here I literally had to squash ou
 
 okay I reset the timer because the way Cloud9 autosaves, it waits until you've stopped typing to save, and that means, if I typed continuously for five seconds, the "changes are still happening" test would think "oh, there are no new changes, I should commit now"
 
-I
+This can still be a problem if I go a full ten seconds without a break when typing, but I think that's kind of rare, and in that case I kind of do want it to 
