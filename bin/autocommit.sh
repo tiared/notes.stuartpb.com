@@ -32,8 +32,15 @@ key-pressed-in-tick () {
   read -s -r -t "$TICK" -n 1 _
 }
 
+flush-input () {
+  local _
+  while read -r -t 0 _; do read -n 4096 -r _; done
+}
+
 roll-index () {
   local SHOTCLOCK
+
+  flush-input
 
   echo
   while (( SHOTCLOCK <= FUSETIME )); do
