@@ -46,8 +46,8 @@ roll_index () {
 # this can be true even when all those changes are staged
 # that's the main distinction between this check and the one in roll_index
 check_dirty () {
-  local dirt=$(git ls-files -dmo --exclude-standard)
-  [[ -n "$dirt" ]]
+  local DIRT=$(git ls-files -dmo --exclude-standard)
+  [[ -n "$DIRT" ]]
 }
 
 DANCESTEP=0
