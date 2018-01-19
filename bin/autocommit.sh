@@ -60,7 +60,6 @@ watch_for_changes () {
   done
 }
 
-
 if check_dirty; then
   git add -A
   autocommit
