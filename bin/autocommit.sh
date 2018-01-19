@@ -47,11 +47,14 @@ roll-index () {
         echo -n ' '
       fi
     done
-    echo -n $'\e[1;31m!\e[0m'
+    echo -n $'\e[1;31m!\e[0m '
 
     SHOTCLOCK=$((SHOTCLOCK + 1))
     if ((SHOTCLOCK <= FUSETIME)); then
-      sleep "$POLL"
+      local _
+      if read -s -r -t "$POLL" -n 1 _; then
+        SHOTCLOCK=$FUSETIME
+      fi
     fi
 
   done
