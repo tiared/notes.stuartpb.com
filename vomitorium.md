@@ -17,3 +17,5 @@ This can still be a problem if I go a full ten seconds without a break when typi
 anyway stopping here to do that move I was talking about doing earlier
 
 You know, now that I think about it, maybe I should have the polling be every second, and there's just a visual "fuse" I need to reset
+
+anyway I think I'll do this as a new damn file, seriously, let me go ahead and make this move commit
