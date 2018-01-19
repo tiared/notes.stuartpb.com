@@ -84,9 +84,9 @@ watch-for-changes () {
     if uncommitted-changes; then
       roll-index
       autocommit
+    else
+      sleep "$TICK"
     fi
-
-    sleep "$TICK"
   done
 }
 
