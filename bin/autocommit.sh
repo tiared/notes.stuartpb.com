@@ -6,12 +6,15 @@ POLL=1
 # How many polls to wait for changes to settle before cutting a commit.
 FUSETIME=10
 
-autocommit () {
-  git commit -m "$($(dirname "$0")/../vendor/git-slum --staged)" &&
-    git push -f
+git-slum-staged () {
+  $(dirname "$0")/../vendor/git-slum --staged
 }
 
-roll_index () {
+autocommit () {
+  git commit -m "$(git-slum-staged)" && git push -f
+}
+
+roll-index () {
   local SHOTCLOCK
   
   echo
@@ -45,7 +48,7 @@ roll_index () {
 # this checks if there's any change from the working tree to HEAD
 # this can be true even when all those changes are staged
 # that's the main distinction between this check and the one in roll_index
-check_dirty () {
+check-dirty () {
   local DIRT=$(git ls-files -dmo --exclude-standard)
   [[ -n "$DIRT" ]]
 }
@@ -55,20 +58,20 @@ DANCEMOVES=(
   $'\e[1;93m'"^('-')^"$'\e[0m'
   $'\e[1;93m'"v('-')v"$'\e[0m')
 
-watch_for_changes () {
+watch-for-changes () {
   while :; do
     echo -n $'\r'"Watching for changes... ${DANCEMOVES[DANCESTEP]} "
     DANCESTEP=$(( (DANCESTEP + 1) % ${#DANCEMOVES[@]} ))
-    if check_dirty; then
-      roll_index
+    if check-dirty; then
+      roll-index
       autocommit
     fi
     sleep "$POLL"
   done
 }
 
-if check_dirty; then
+if check-dirty; then
   git add -A
   autocommit
 fi
-watch_for_changes
+watch-for-changes
