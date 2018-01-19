@@ -13,3 +13,5 @@ Man, it really is incredible how, like, I only notice the autocommit is about to
 You know one funny thing is that I find myself missing commit messages
 
 like that thing I just did where I amended the file, waited ten seconds, then deleted it
+
+I considered turning off autocommit but then I was like "nah, this makes more sense as a, like, gravestone"
