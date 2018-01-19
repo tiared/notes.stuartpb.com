@@ -1,6 +1,4 @@
-wow, I can't think of a bigger "fuck you" than classifying all the stupid meta files as "docs"
-
-maybe it's the pressure from renaming like that but I'm going to go ahead and just start deleting the docs in here that are irrelevant and don't really have anything interesting to say
+so, the shot clock in autocommit.sh is a thing I'm still kind of coming to terms with, its purpose etc. Like, I've started deleting things now that I feel I can rely on commits
 
 part of me feels like this is a betrayal of the original intentions behind making this barfspace repo, but, nah, because the point was to make something where I'm not fussing over "oh, is this good enough to ship", and I'd say I've achieved that
 
