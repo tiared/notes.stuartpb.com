@@ -8,3 +8,4 @@ let me try this change I just made to the autocommit script first
 
 Man, the timer is longer than I thought it was
 
+fun fact, 
