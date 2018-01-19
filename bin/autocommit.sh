@@ -43,7 +43,7 @@ roll-index () {
   flush-input
 
   echo
-  while (( SHOTCLOCK <= FUSETIME )); do
+  while ((SHOTCLOCK <= FUSETIME)); do
 
     # reset the shotclock whenever there are unstaged changes
     if unstaged-changes; then
