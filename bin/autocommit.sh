@@ -6,18 +6,18 @@ set -e
 # How frequently to check if the working tree has changed.
 POLL=1
 # How many polls to wait for changes to settle before cutting a commit.
-SETTLE=10
+FUSETIME=10
 
 roll_index () {
   local SHOTCLOCK
-  while (( SHOTCLOCK <= SETTLE )); do
+  while (( SHOTCLOCK <= FUSETIME )); do
     # reset the shotclock whenever there are unstaged changes
     if git status --porcelain | grep -q '^.[^ ]'; then
       git add -A
       SHOTCLOCK=0
     fi
     echo -n $'\rBuilding commit'
-    for ((i = 0; i < SETTLE; ++i)); do
+    for ((i = 0; i < FUSETIME; ++i)); do
       if ((i < SHOTCLOCK)); then
         echo -n '.'
       else
@@ -26,7 +26,7 @@ roll_index () {
     done
     echo -n $'\e[1;31m!\e[0m'
     SHOTCLOCK=$((SHOTCLOCK + 1))
-    if ((SHOTCLOCK <= SETTLE)); then sleep "$POLL"; fi
+    if ((SHOTCLOCK <= FUSETIME)); then sleep "$POLL"; fi
   done
 }
 
