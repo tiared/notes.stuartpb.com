@@ -1,8 +1,6 @@
 #! /usr/bin/env bash
 set -e
 
-# Times to wait.
-
 # How frequently to check if the working tree has changed.
 POLL=1
 # How many polls to wait for changes to settle before cutting a commit.
