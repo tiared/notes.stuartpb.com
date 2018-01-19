@@ -2,8 +2,8 @@
 set -e
 
 # How frequently to check if the working tree has changed.
-POLL=1
-# How many polls to wait for changes to settle before cutting a commit.
+TICK=1
+# How many ticks to wait for changes to settle before cutting a commit.
 FUSETIME=10
 # Dance to do while waiting for changes.
 DANCEMOVES=(
@@ -25,6 +25,11 @@ unstaged-changes () {
 uncommitted-changes () {
   local DIRT=$(git ls-files -dmo --exclude-standard)
   [[ -n "$DIRT" ]]
+}
+
+key-pressed-in-tick () {
+  local _
+  read -s -r -t "$TICK" -n 1 _
 }
 
 roll-index () {
@@ -51,8 +56,7 @@ roll-index () {
 
     SHOTCLOCK=$((SHOTCLOCK + 1))
     if ((SHOTCLOCK <= FUSETIME)); then
-      local _
-      if read -s -r -t "$POLL" -n 1 _; then
+      if key-pressed-in-tick; then
         SHOTCLOCK=$FUSETIME
       fi
     fi
@@ -74,7 +78,7 @@ watch-for-changes () {
       autocommit
     fi
 
-    sleep "$POLL"
+    sleep "$TICK"
   done
 }
 
