@@ -7,3 +7,4 @@ okay so when I originally started putting this together I had this thought like 
 let me try this change I just made to the autocommit script first
 
 Man, the timer is longer than I thought it was
+
