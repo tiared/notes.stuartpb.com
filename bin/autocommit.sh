@@ -13,13 +13,16 @@ autocommit () {
 
 roll_index () {
   local SHOTCLOCK
+  
   echo
   while (( SHOTCLOCK <= FUSETIME )); do
+  
     # reset the shotclock whenever there are unstaged changes
     if git status --porcelain | grep -q '^.[^ ]'; then
       git add -A
       SHOTCLOCK=0
     fi
+    
     echo -n $'\rBuilding commit'
     for ((i = 0; i < FUSETIME; ++i)); do
       if ((i < SHOTCLOCK)); then
@@ -29,8 +32,12 @@ roll_index () {
       fi
     done
     echo -n $'\e[1;31m!\e[0m'
+    
     SHOTCLOCK=$((SHOTCLOCK + 1))
-    if ((SHOTCLOCK <= FUSETIME)); then sleep "$POLL"; fi
+    if ((SHOTCLOCK <= FUSETIME)); then
+      sleep "$POLL"
+    fi
+    
   done
   echo
 }
