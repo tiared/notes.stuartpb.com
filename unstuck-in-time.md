@@ -6,4 +6,4 @@ What I'd like is something covering what I'm looking at doing with OPWS, having 
 
 There's also the manner of having roadmap files that I'm not convinced is right? Like, I think having a "roadmap issue", or milestone, or projects, is better...
 
-That's another thing, the interplay of milestones versus projects. I think that's one of the reasons I was thinking of doing "GitHub Best Practices", to clarify some of that. Now that it's "GitHub Mistakes", I guess it could be formulated
+That's another thing, the interplay of milestones versus projects. I think that's one of the reasons I was thinking of doing "GitHub Best Practices", to clarify some of that. Now that it's "GitHub Mistakes", I guess it could be formulated as a mistake people make, not keeping an accessible description of the changes in their project between versions
