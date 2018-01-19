@@ -12,4 +12,6 @@ I should really make a note somewhere for anybody who's worried about how messy 
 
 Okay, so, like, a thing is, I kind of feel trapped in this style. Like, if I've got all these commits, and they're messy, and then I've got other commits where I'm trying *not* to be messy?
 
-Yeah, like, I think *this* was the big thing I was trying to avoid by not having an autocommit script... I wanted it to be 
+Yeah, like, I think *this* was the big thing I was trying to avoid by not having an autocommit script... I wanted it to be a thing where I'm always working on having the contents of the directory make sense *eventually*
+
+Which is a thing I kind of touched on in the-thing-about-weird-twitter, I started talking about how just barfing everything all the time in a mania isn't helpful
