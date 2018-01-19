@@ -9,3 +9,7 @@ let me try this change I just made to the autocommit script first
 Man, the timer is longer than I thought it was
 
 fun fact, after I committed the timeout script here I literally had to squash out 120 intermediate commits that had been made
+
+okay I reset the timer because the way Cloud9 autosaves, it waits until you've stopped typing to save, and that means, if I typed continuously for five seconds, the "changes are still happening" test would think "oh, there are no new changes, I should commit now"
+
+I think it might do autosaving 
