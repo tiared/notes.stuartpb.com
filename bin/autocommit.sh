@@ -51,7 +51,7 @@ roll-index () {
       SHOTCLOCK=0
     fi
 
-    echo -n $'\rBuilding commit'
+    echo -n $'\r'"Building commit"
     for ((i = 0; i < FUSETIME; ++i)); do
       if ((i < SHOTCLOCK)); then
         echo -n '.'
@@ -59,7 +59,7 @@ roll-index () {
         echo -n ' '
       fi
     done
-    echo -n $'\e[1;31m!\e[0m '
+    echo -n $'\e[1;31m!\e[0m \e[K'
 
     SHOTCLOCK=$((SHOTCLOCK + 1))
     if ((SHOTCLOCK <= FUSETIME)); then
@@ -77,7 +77,7 @@ watch-for-changes () {
   local DANCESTEP=0
 
   while :; do
-    echo -n $'\r'"Watching for changes... ${DANCEMOVES[DANCESTEP]} "
+    echo -n $'\r'"Watching for changes... ${DANCEMOVES[DANCESTEP]} "$'\e[K'
 
     DANCESTEP=$(( (DANCESTEP + 1) % ${#DANCEMOVES[@]} ))
 
