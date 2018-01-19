@@ -9,3 +9,7 @@ like for instance, with that last line I actually did get a second of "oh, wait,
 And, you know, I think the thing where it'll just commit whatever happened the last time I paused if I start writing something and I go for more than ten seconds... I think I'm okay with that. Like, okay, fine, save whatever damn intermediate steps.
 
 Man, it really is incredible how, like, I only notice the autocommit is about to happen *right when* I'd chicken out normally
+
+You know one funny thing is that I find myself missing commit messages
+
+like that thing I just did where I amended the file, waited ten seconds, then deleted it
