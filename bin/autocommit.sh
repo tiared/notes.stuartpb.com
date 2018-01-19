@@ -31,8 +31,8 @@ autocommit () {
 
 DANCESTEP=0
 DANCEMOVES=(
-  $'\e[1;93m'"(>'-')>"$'\e[0m'
-  $'\e[1;93m'"<('-'<)"$'\e[0m')
+  $'\e[1;93m'"^('-')^"$'\e[0m'
+  $'\e[1;93m'"v('-')v"$'\e[0m')
 
 autocommit
 while sleep "$POLL"; do
