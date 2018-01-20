@@ -13,4 +13,4 @@ Like, the core of this is that, like, the "free VMs" thing... it should apply to
 
 And I'm emphatic about the "the only restriction is if the development is proprietary" thing. Like, people should be allowed to use this for, like... private Minecraft servers (so long as all the extensions in use are public, and their use is documented), and personal photo storage, and everything.
 
-In short: **cluster computing should be a public utility**.
+In short: **cluster computing should be a public utility**, one whose only restriction is that it can't be used for private *endeavors*, where an "endeavor" is quantified as "anything that could be of benefit to the general public".
