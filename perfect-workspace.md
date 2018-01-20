@@ -9,4 +9,6 @@ The thing that I want - all I want out of the world (as far as having room to ex
 
 I like the idea of the CNCF cluster, but it's too heavily gatekept right now
 
-Like, the core of this is that, like, the "free VMs" thing... it should apply to *everyone*, whether they're an active contributor or just an "idle consumer" who basically only pulls other people's changes. So long as they're not using the VM for *proprietary commercial development*, it should be free, because this allows for the *real* thing open source projects need: *an interested and engaged user base*.
+Like, the core of this is that, like, the "free VMs" thing... it should apply to *everyone*, whether they're an active contributor or just an "idle consumer" who basically only pulls other people's changes. So long as they're not using the VM for *proprietary development*, it should be free, because this allows for the *real* thing open source projects need: *an interested and engaged user base*.
+
+And I'm emphatic about the "
