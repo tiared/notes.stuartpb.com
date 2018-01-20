@@ -6,4 +6,4 @@ The idea, as I originally thought of it, was to have a website with one giant "t
 
 Today... I don't know, maybe there's an adjunct dataset you could append to Wikidata?
 
-The vision, I guess, was that, if you wanted to prove a point - like, for instance, the emergence of shadowy characters in the mold of Fortinbras, or one of those "lineage of Linux distros / whatever"
+The vision, I guess, was that, if you wanted to prove a point - like, for instance, the emergence of shadowy characters in the mold of Fortinbras, or one of those "lineage of Linux distros / whatever" charts - you'd be able to hop on Timetress, and all the points 
