@@ -6,4 +6,6 @@ The idea, as I originally thought of it, was to have a website with one giant "t
 
 Today... I don't know, maybe there's an adjunct dataset you could append to Wikidata?
 
-The vision, I guess, was that, if you wanted to prove a point - like, for instance, the emergence of shadowy characters in the mold of Fortinbras, or one of those "lineage of Linux distros / whatever" charts - you'd be able to hop on Timetress, and all the points 
+The vision, I guess, was that, if you wanted to prove a point - like, for instance, the emergence of shadowy characters in the mold of Fortinbras, or one of those "lineage of Linux distros / whatever" charts - you'd be able to hop on Timetress, and all the points in time you'd want to reference would just be there, and you'd be able to just, like, click the nodes in your graph and type out the connections you're seeing.
+
+And I guess that's *marginally* easier than just going out and looking up the dates yourself... I think that's what'd *really* be useful here, like, an extension for Graphviz that lays out nodes with dates attached in spatial relations that match their distances in time... though even then, y'know, who cares? Just make a .dot file with your points. I'm not sure the tooling's the real impediment here.
