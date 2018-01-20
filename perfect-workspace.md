@@ -15,7 +15,9 @@ And I'm emphatic about the "the only restriction is if the development is propri
 
 In short: **cluster computing should be a public utility**, one whose only restriction is that it can't be used for private *endeavors*, where an "endeavor" is quantified as "anything that could be of benefit to the general public".
 
-(You know, this "endeavor" definition is another kind of important concept I should probably elaborate on somewhere, kind of like what I'm doing with "SACRED".)
+(You know, this "endeavor" definition is another kind of important concept I should probably elaborate on somewhere, kind of like what I'm doing with "SACRED". "Of benefit to the general public" doesn't have to mean *everybody* can use it: it means *anybody* can use it, in the sense that they don't have to be a coworker in your company - that's what the "A" in SACRED is all about - wait no I fucked up, let me try this again.)
+
+
 
 Like, my personal photos don't need to be public, because they're not the kind of thing where somebody's going to be struggling with something, and then they come across my work, and it makes their life easier. But the system I use for *uploading and backing up* those photos *absolutely does* need to be public.
 
