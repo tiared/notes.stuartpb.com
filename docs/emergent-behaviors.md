@@ -11,3 +11,7 @@ this is the kind of thing I'd kind of do in commit messages, but, like, I usuall
 ## Project files
 
 I'm writing descriptions for some of my old ideas in this repo right now: donw the line, I'll probably come up with a better place to put them, but right now, this is the easiest place for me to write them.
+
+## Vulgarity
+
+From "The Zit", to "Snot Humility", to "Dickward Delegation", there's a sort of theme of liberating crassness flowing out from the top-level "barfspace" name.
