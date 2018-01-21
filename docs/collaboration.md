@@ -1,0 +1,15 @@
+Collaboration would be awesome: have other folks just clone the repo, fire up autocommit.sh and go hog-wild themselves
+
+looking at this as a Second-System, the only real change I'd suggest would be that the repos should just have the content, with tooling living outside and versioned like a normal Git project
+
+inside the federated barfspace, you'd want to make a few changes to the normal Git built-in flow:
+
+- pulling from a repo would only take the files without conflicts, then create separate refs (like branches) for the changes in each file that does have a conflict, to be reviewed on an individual basis
+
+actually, should it? like, what about when something in one file of the repo refers out to something that was written in another file; maybe conflicts really should work like a traditional conflict, where the whole tree has to be reviewed
+
+anyway the big question I guess is how you deal with the way that remote refs are constantly being rebased and rewritten - like, I think remote tracking doesn't have a fast-forward constraint so that's fine?
+
+i guess the real change in the workflow would be that each merge would just be like "here's a new merge from this completely alien tree", and sometimes it'll diverge on a commit that was rebased so you'll have ten versions of the same commit floating around in your history from doing twelve merges (where one merge might have introduced five variations as part of its own history), but who cares
+
+maybe it's considered polite to have your pullable ref squash history on a pretty broad-strokes basis so as to avoid hairy replays
