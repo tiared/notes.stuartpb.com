@@ -21,3 +21,5 @@ okay so I don't know if there's already an interface in Git for this, but a view
 so I guess the thing would be making it so merges are more easily cherrypickable? like, is there a way to say "credit the author of all the changes I'm pulling in this commit, collapse all the sequential changes that had the same author into one commit"
 
 is there a way to say "trace the commits that introduced this content and make a new commit that calls them its parents" I don't know I guess that's just kind of ridiculous, just make a squash like what I was describing up there, one that runs and makes sure the blame's the same for all, and splits up commits if there are multiple authors to credit
+
+like, the thing I'm trying to figure / recall if there's a tool for: is there a way to cherry-pick merges?
