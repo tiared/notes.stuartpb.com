@@ -13,3 +13,5 @@ anyway the big question I guess is how you deal with the way that remote refs ar
 i guess the real change in the workflow would be that each merge would just be like "here's a new merge from this completely alien tree", and sometimes it'll diverge on a commit that was rebased so you'll have ten versions of the same commit floating around in your history from doing twelve merges (where one merge might have introduced five variations as part of its own history), but who cares
 
 maybe it's considered polite to have your pullable ref squash history on a pretty broad-strokes basis so as to avoid hairy replays
+
+okay so I don't know if there's already an interface in Git for this, but a view where, after you fetch refs for all your remotes, you can see a digest of what's new since the last time you reviewed your news feed or whatever you'd call it, like `git log -p` for each ref, and intermingled, and only going based on the diff between when you last looked and now
