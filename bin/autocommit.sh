@@ -47,7 +47,6 @@ roll-index () {
 
   flush-input
 
-  echo
   while ((SHOTCLOCK <= FUSETIME)); do
 
     if unstaged-changes; then
@@ -86,6 +85,7 @@ watch-for-changes () {
     DANCESTEP=$(( (DANCESTEP + 1) % ${#DANCEMOVES[@]} ))
 
     if uncommitted-changes; then
+      echo
       roll-index
       autocommit
     else
@@ -95,7 +95,7 @@ watch-for-changes () {
 }
 
 if uncommitted-changes; then
-  git add -A
+  roll-index
   autocommit
 fi
 watch-for-changes
