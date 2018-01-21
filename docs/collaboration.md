@@ -2,6 +2,8 @@ Collaboration would be awesome: have other folks just clone the repo, fire up au
 
 looking at this as a Second-System, the only real change I'd suggest would be that the repos should just have the content, with tooling living outside and versioned like a normal Git project
 
+"so the basic idea is, what if tumblr was a federated wiki, wait where are you going, no come back"
+
 inside the federated barfspace, you'd want to make a few changes to the normal Git built-in flow:
 
 - pulling from a repo would only take the files without conflicts, then create separate refs (like branches) for the changes in each file that does have a conflict, to be reviewed on an individual basis
