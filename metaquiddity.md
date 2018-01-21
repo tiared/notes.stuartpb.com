@@ -9,3 +9,5 @@ When I find myself considering *what it is that I'm considering*, and whether I'
 This relates to the thing I mentioned a while ago somewhere around here that the worst feeling is [forgetting what you were about to tell yourself not to forget](https://www.youtube.com/watch?v=ScbIldQpFy4)
 
 Hopefully I can now bail out to pointing to this file, and not get caught up in whether or not it *is* this file that I should be pointing to... (the more complicated that decision is, the more evidence that this is, in fact, the file to be pointing to)
+
+The vertigo of staring into infinity is one thing, but the confusion of *struggling to comprehend whether you are in fact staring into infinity or not* just compounds the anxiety *so much more*
