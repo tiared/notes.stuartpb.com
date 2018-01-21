@@ -6,7 +6,7 @@ To set the scene, imagine you've got some William F. Buckley type on one side of
 
 "Well, it seems to me, that the best things in life, are the things that are bright crimson, the color of a stop sign, and things that are gold, like a buttercup. It would then follow that the house might best be painted in something that might approximate a combination of these two hues..."
 
-(If you've never heard of Gore Vidal before, basically picture a butch Joan Rivers.
+(If you've never heard of Gore Vidal before, basically picture a butch C-3PO.)
 
 "You're talking about orange."
 
