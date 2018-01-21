@@ -22,4 +22,4 @@ so I guess the thing would be making it so merges are more easily cherrypickable
 
 is there a way to say "trace the commits that introduced this content and make a new commit that calls them its parents" I don't know I guess that's just kind of ridiculous, just make a squash like what I was describing up there, one that runs and makes sure the blame's the same for all, and splits up commits if there are multiple authors to credit
 
-like, the thing I'm trying to figure / recall if there's a tool for: is there a way to cherry-pick merges by content? "merge this line, not this line"?
+like, the thing I'm trying to figure / recall if there's a tool for: is there a way to cherry-pick merges by content? "merge this line, not this line"? and, really, to not even get reviewed on most of the changes, like a way to say "I just want to take a piece from this one file", or, like, maybe they'd like to do a series of commits based on one commit someone else put out
