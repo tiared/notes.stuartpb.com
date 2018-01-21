@@ -1,6 +1,6 @@
 # Bottled from Municipal Sources
 
-One thing that's played a huge part in my open-source radicalization since high school was realizing that pretty much all commercial software innovation is like bottled water: it's, with few to no exceptions, mostly based on public innovations, shared by everybody and made possible by the most perceptive and goal-oriented scientists and engineers in academia and public service, with maybe a few unhealthy additives, and a shiny label and price tag slapped on. And, when you scratch the surface to do more than the most basic, unquestioning work in software, this understanding is unavoidable.
+One thing that's played a huge part in my open-source radicalization since high school was realizing that pretty much all commercial software innovation is like bottled water. Its substance is enabled by innovations from academia, produced by engineers working in the general interest, and made available by law to the general public. Commercial enterprises then take this, maybe throw in a few unhealthy trace additives, and slap a shiny label and price tag on it. When you scratch the surface to do more than the most basic, unquestioning work in the field, it's not like this is a high-concept conjecture: an awareness of these municipal origins is unavoidable, because you're constantly in contact with it (from IETF RFCs to GNU man pages).
 
 It's why Ajit Pai calling the Internet a "free market innovation" damn near gives me a fucking stroke.
 
