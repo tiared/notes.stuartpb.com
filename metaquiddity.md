@@ -10,4 +10,4 @@ This relates to the thing I mentioned a while ago somewhere around here that the
 
 Hopefully I can now bail out to pointing to this file, and not get caught up in whether or not it *is* this file that I should be pointing to... (the more complicated that decision is, the more evidence that this is, in fact, the file to be pointing to)
 
-The vertigo of staring into infinity is one thing, but the confusion of *struggling to comprehend whether you are in fact staring into infinity or not* just compounds the anxiety *so much more*
+The vertigo of staring into infinity is one thing, but the confusion of *struggling with the concept of struggling with concepts*, woven with the comprehension of the recursion, confusion, complexity, fractality, the general tesselation and hyperoperation and scope-jumping of all the manners in which the question can be *rotated*, just compounds the loopiness *so much more*
