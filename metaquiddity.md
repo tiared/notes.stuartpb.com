@@ -1,3 +1,5 @@
+# Infinitely-Recursive Metaquiddity
+
 Careening like a tire on fire out from https://github.com/unusualstudio/unusualstudio-projects/issues/14#issuecomment-359223134
 
 This is one of the hardest traps my brain falls into, like the robots in Futurama (which inherited this gag from Star Trek) all being fundamentally susceptible to destruction when encountering paradoxes:
