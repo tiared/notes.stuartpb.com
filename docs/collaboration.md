@@ -19,3 +19,5 @@ maybe it's considered polite to have your pullable ref squash history on a prett
 okay so I don't know if there's already an interface in Git for this, but a view where, after you fetch refs for all your remotes, you can see a digest of what's new since the last time you reviewed your news feed or whatever you'd call it, like `git log -p` for each ref, and intermingled, and only going based on the diff between when you last looked and now
 
 so I guess the thing would be making it so merges are more easily cherrypickable? like, is there a way to say "credit the author of all the changes I'm pulling in this commit, collapse all the sequential changes that had the same author into one commit"
+
+is there a way to say 
