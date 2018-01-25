@@ -20,4 +20,4 @@ I don't know: I guess I *did* pause there, writing that last clause, trying to p
 
 And it's not just failing to satisfice: it's not an *infinite* cycke of indecision - indeed, as I've built up this skill, it usually terminates fairly *quickly* (as I said, usually within the course of a minute).
 
-Hmm, now that I think about it... that's probably a better value for the shotclock.
+It doesn't really take me that much more time to type with clear spelling, capitalization, and punctuation than it does to hurry, and it leaves me feeling significantly less anxious about what I've written being hard to decipher.
