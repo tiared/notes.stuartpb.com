@@ -11,3 +11,5 @@ Mania doesn't come naturally to me, and I'm not super comfortable within it. Las
 Keeping things tidy feels *good* to me, in some contexts. It's ironic, because my apartment is always a mess, but my *work*, I can't stand a single stray hair in the logic of.
 
 But I worry that my *natural style* being this semi-rehearsed, practiced, rhythmic thing makes it come off as less raw, more processed, less *trustworthy* than a nigh-inscrutable ee-cummings-style tone poem primal scream where the syntax melts, the words go Humpty-Dumpty, and irony comes and goes as it pleases.
+
+I guess that might be part of the motivation behind what I would feel is "my truth" in barfspace, where I'm just being *me*, in the way that feels most comfortable: it shows that this *is*, in fact, how I roll, how I write off the cuff, how I lay myself down when I'm not 
