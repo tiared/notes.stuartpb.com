@@ -12,4 +12,4 @@ Keeping things tidy feels *good* to me, in some contexts. It's ironic, because m
 
 But I worry that my *natural style* being this semi-rehearsed, practiced, rhythmic thing makes it come off as less raw, more processed, less *trustworthy* than a nigh-inscrutable ee-cummings-style tone poem primal scream where the syntax melts, the words go Humpty-Dumpty, and irony comes and goes as it pleases.
 
-I guess that might be part of the motivation behind what I would feel is "my truth" in barfspace, where I'm just being *me*, in the way that feels most comfortable: it shows that this *is*, in fact, how I roll, how I write off the cuff, how I lay myself down when I'm not 
+I guess that might be part of the motivation behind what I would feel is "my truth" in barfspace, where I'm just being *me*, in the way that feels most comfortable: it shows that this *is*, in fact, how I roll, how I write off the cuff, how I lay my thoughts out when I'm not trying to obscure anything I already understand.
