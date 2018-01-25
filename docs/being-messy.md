@@ -18,4 +18,6 @@ I don't know: I guess I *did* pause there, writing that last clause, trying to p
 
 ***But that's who I am.*** Being understood is of the *utmost importance* to the core of my being: the only thing that *really* bothers me is being misunderstood, and I don't know how other people can put up with it. Writing something that could potentially be misunderstood, without taking a minute or less to smooth it out, feels not just *unnatural* to me: it feels *morally wrong*, which is why I was left feeling drained on Friday. It's wrong on the order of using a linear-time algorithm where a constant-time soultion would do: it's putting a burden on a potentially *interminable number of readers* that could have been entirely resolved by *one person* making more of an effort.
 
-And it's not just failing to satisfice
+And it's not just failing to satisfice: it's not an *infinite* cycke of indecision - indeed, as I've built up this skill, it usually terminates fairly *quickly* (as I said, usually within the course of a minute).
+
+Hmm, now that I think about it... that's probably a better value for the shotclock.
