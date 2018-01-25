@@ -4,7 +4,7 @@ This is an attempt to consolidate some of the thoughts that have been lingering 
 
 In fact, fuck it, I'm going to go ahead and merge those files into this one.
 
-Actually, no, I'm not going to do that. I'm going to iterate by rewriting what I wrote there... like *actual, honest to god drafts*. Shit, this repo might be making me adopt generally-accepted good writing habits. Shit.
+Actually, no, I'm not going to do that. I'm going to iterate by rewriting what I wrote there, and then deleting (unpublishing) the rougher expressions (leaving them available in the Git history, letting people who want to read obsoleted drafts filter on commits containing the word "delete" and holding any concern for the minute details that may have been lost in the translation as being the definition of "historical interest")... like *actual, honest to god drafts*. Shit, this repo might be making me adopt generally-accepted good writing habits. Shit.
 
 Mania doesn't come naturally to me, and I'm not super comfortable within it. Last Friday, I tried slopping out some text here in barfspace in a manic dash to express myself, and I felt drained, more drained than I necessarily had to.
 
