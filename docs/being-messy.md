@@ -16,4 +16,4 @@ I guess that might be part of the motivation behind what I would feel is "my tru
 
 I don't know: I guess I *did* pause there, writing that last clause, trying to ponder the way to convey the precise sentiment that was on my mind in a way that could be understood.
 
-***But that's who I am.***
+***But that's who I am.*** Being understood is of the *utmost importance* to the core of my being: the only thing that *really* bothers me is being misunderstood, and I don't know how other people can put up with it.
