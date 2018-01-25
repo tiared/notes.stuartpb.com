@@ -9,3 +9,5 @@ Actually, no, I'm not going to do that. I'm going to iterate by rewriting what I
 Mania doesn't come naturally to me, and I'm not super comfortable within it. Last Friday, I tried slopping out some text here in barfspace in a manic dash to express myself, and I felt drained, more drained than I necessarily had to.
 
 Keeping things tidy feels *good* to me, in some contexts. It's ironic, because my apartment is always a mess, but my *work*, I can't stand a single stray hair in the logic of.
+
+But I worry that my *natural style* being this semi-rehearsed, practiced, rhythmic thing makes it come off as less raw, more processed, less *trustworthy* than a nigh-inscrutable ee-cummings-style tone poem primal scream where the syntax melts, the words go Humpty-Dumpty, and irony comes and goes as it pleases.
