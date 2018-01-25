@@ -3,7 +3,7 @@
 # How frequently to check if the working tree has changed.
 TICK=1
 # How many ticks to wait for changes to settle before cutting a commit.
-FUSETIME=60
+FUSETIME=25
 # Dance to do while waiting for changes.
 DANCEMOVES=(
   $'\e[1;93m'"^('-')^"$'\e[0m'
