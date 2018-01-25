@@ -7,3 +7,5 @@ In fact, fuck it, I'm going to go ahead and merge those files into this one.
 Actually, no, I'm not going to do that. I'm going to iterate by rewriting what I wrote there... like *actual, honest to god drafts*. Shit, this repo might be making me adopt generally-accepted good writing habits. Shit.
 
 Mania doesn't come naturally to me, and I'm not super comfortable within it. Last Friday, I tried slopping out some text here in barfspace in a manic dash to express myself, and I felt drained, more drained than I necessarily had to.
+
+Keeping things tidy feels *good* to me, in some contexts. It's ironic, because my apartment is always a mess, but my *work*, I can't stand a single stray hair in the logic of.
