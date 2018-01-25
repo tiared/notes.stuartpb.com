@@ -6,4 +6,4 @@
 
 The above excerpt from https://www.newyorker.com/magazine/2013/03/11/requiem-for-a-dream might be the most penetrative description of how I feel when I think about telling someone about how reading and/or thinking about Aaron Swartz makes me feel. I have no basis talking about someone I never met, never recognized until it was too late, until I've demonstrated that I can accomplish something that could even remotely justify the interest. I do feel able to say, though, that under http://www.aaronsw.com/weblog/theoryofchange, I am currently working towards that.
 
-Also in tune: http://discountgeni.us/2013/01/13/why-am-i-so-upset-about-aaron-swartzs-suicide/
+Also in tune (excerpted in the same New Yorker article): http://discountgeni.us/2013/01/13/why-am-i-so-upset-about-aaron-swartzs-suicide/
