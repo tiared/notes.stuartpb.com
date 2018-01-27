@@ -53,3 +53,5 @@ Yeah. Yeah.
 (beat)
 That reminds me, I was talking to Marsha about the rubbish.
 ```
+
+The line about "because he'd invented it by accident" is something I really wanted to link to for "the results of reckless experimentation" in https://github.com/stuartpb/sacred-tenets/commit/a4baae577dc3c014cdb5641af20d138e1859377d
