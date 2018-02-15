@@ -7,7 +7,13 @@ The thing that I want - all I want out of the world (as far as having room to ex
 
 [SACRED]: https://github.com/stuartpb/sacred-tenets
 
-I like the idea of the CNCF cluster, but it's too heavily gatekept right now
+The key difference between what I'm talking about here and shell-access community servers like [tilde.club][] is that this would provide **full control** (not just root access, but *hypervisor* access, being free to image/snapshot/wipe/restore the server with whatever image/distro they wish) over **any number** of systems the dev/user needs to provision (which may be virtual, so long as their end resource usage isn't disporportionate/exhaustive), each with **its own IPv4 address** (in a good future, we'd be able to get by with just IPv6 blocks, but we're not there yet).
+
+[tilde.club]: https://medium.com/message/tilde-club-i-had-a-couple-drinks-and-woke-up-with-1-000-nerds-a8904f0a2ebf
+
+I like the idea of the [CNCF Community Infrastructure Lab][cncf/cluster], but it's too heavily gatekept right now: users must fill out a long, probing questionnaire explaining what they're going to use it for, and if they're not a proven developer with an open-source project in the pipe, they're not getting in
+
+[cncf/cluster]: https://github.com/cncf/cluster
 
 Like, the core of this is that, like, the "free VMs" thing... it should apply to *everyone*, whether they're an active contributor or just an "idle consumer" who basically only pulls other people's changes. So long as they're not using the VM for *proprietary development*, it should be free, because this allows for the *real* thing open source projects need: *an interested and engaged user base*.
 
