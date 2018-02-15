@@ -26,3 +26,5 @@ The point where this touches SACRED at large is that anything created toward ful
 Again, the point is that all work on the system (where "work" is a synoynm for "endeavor" as described above) should be as foundational as possible. Some aspects of SACRED are limited by abilities (like descriptiveness, or an awareness of privilege enough for good accessibility), but some things are just naturally SACRED, and you just need to not impede them.
 
 I guess the baseline would be that, by default, everything in your *entire* tree gets published. If you've got the acumen, you can narrow that (like, you can set up a gitignore), but you have to be able to prove that nothing that's being gitignored could bring any of your work closer to SACRED.
+
+[This Medium article](https://medium.com/@jkriss/anti-capitalist-human-scale-software-and-why-it-matters-5936a372b9d) kind of reflects some of my other thinking in this vein.
