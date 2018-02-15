@@ -28,3 +28,9 @@ Again, the point is that all work on the system (where "work" is a synoynm for "
 I guess the baseline would be that, by default, everything in your *entire* tree gets published. If you've got the acumen, you can narrow that (like, you can set up a gitignore), but you have to be able to prove that nothing that's being gitignored could bring any of your work closer to SACRED.
 
 [This Medium article](https://medium.com/@jkriss/anti-capitalist-human-scale-software-and-why-it-matters-5936a372b9d) kind of reflects some of my other thinking in this vein.
+
+## Endeavors and Enterprise (ie. Services)
+
+One thing I'm thinking about right now is the notion that it should be possible to run commercial endeavors within these constraints. For example, say you wanted to build a Fiverr killer that just transferred money directly to creators without extracting additional rent: so long as the codebase you use to facilitate that is entirely open, you could do that.
+
+In this paradigm, the main 
