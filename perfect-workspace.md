@@ -31,6 +31,4 @@ I guess the baseline would be that, by default, everything in your *entire* tree
 
 ## Endeavors and Enterprise (ie. Services)
 
-One thing I'm thinking about right now is the notion that it should be possible to run commercial endeavors within these constraints. For example, say you wanted to build a Fiverr killer that just transferred money directly to creators without extracting additional rent: so long as the codebase you use to facilitate that is entirely open, you could do that.
-
-In this paradigm, the main 
+One thing I'm thinking about right now: what would the constraints on use of a cluster like this around commercial use need to be? For example, I am *absolutely against* the notion of a cluster like this being used to mine any sort of crypto-currency (even if it's building a "new coin" - so long as it's an endeavor toward converting CPU cycles to cash, I am 100% opposed), but I'm *totally into* the idea of somebody using it to run their own Etsy-like shop, ie. using the tech to facilitate communication in taking comissions to build bespoke artwork.
