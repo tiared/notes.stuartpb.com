@@ -1,1 +1,1 @@
-Basically, I have an extended series of thoughts around the feeling portrayed in https://xkcd.com/1106/ (the one with the balloons).
+Basically, I have an extended series of thoughts around the feeling portrayed in https://xkcd.com/1106/ (the one with the balloons), which I've been illustrating in a Tilt Brush canvas for a while (since a big part of it is "many of the balloons will reach other places where someone else can tend to them").
