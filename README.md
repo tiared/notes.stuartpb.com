@@ -1,9 +1,5 @@
 # barfspace
 
-This is a repo of files that I edit with autosave turned on and `bin/autocommit.sh` running
+This is a repository of works-in-progress and other not-ready-for-primetime writing that I do. I had previously kept a few of these as uncomitted files in my workspace for [stuartpb/meditations][] (not comitting them because I felt they weren't finished enough to publish), but eventually decided I'd rather maintain them in a perpetual work-in-progress repository.
 
-the autocommit script makes it so every time I change something, then go more than ten seconds without saving new changes, it cuts a new commit and pushes it to GitHub
-
-so that's why everything's a mess
-
-if you like garbage like this, you might also like http://www.textfiles.com/directory.html
+[stuartpb/meditations]: https://github.com/stuartpb/meditations
