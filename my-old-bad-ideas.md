@@ -8,4 +8,6 @@ But yeah, another thing, as I put for an idea originally written down as "A Fede
 
 > This seemed like a smart idea when I wrote it, but looking back, it's redundant to... Stack Overflow questions and Octopress posts. This idea failed one of the criteria I've only really come to understand in the last few years: "is there anything stopping the kind of user who'd know what to do with this from doing it themselves today?"
 
+*(Update: in light of [what I'm doing right now with Lean Notes][leannotes#2] where I'm effectively turning it into a federated wiki of guides, that last one is especially hilarious)*
 
+[leannotes#2]: https://github.com/stuartpb/leannotes/issues/2
