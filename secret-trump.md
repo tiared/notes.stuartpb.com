@@ -14,25 +14,25 @@ Unlike classic Secret Hitler, each player has a role with dedicated details:
 
 ### Mooch (R)
 
-No matter which Party ultimately wins, Mooch only wins by being Fired, so he can go off and build his brand (but, you know, he's not trying to suck his own dick about it).
+No matter which Party ultimately wins, Anthony "The Mooch" Scaramucci only wins by being Fired, so he can go off and build his brand (but, you know, he's not trying to suck his own dick about it).
 
 ### Manafort (R)
 
-Manafort loses if the Republicans win (causing him to be indicted after the election), or if the Democrats win before every player at the table has been a candidate for President at least twice (giving Manafort enough time on the campaign trail to grift up a nest egg).
+Paul Manafort loses if the Republicans win (causing him to be indicted after the election), or if the Democrats win before every player at the table has been a candidate for President at least twice (giving Manafort enough time on the campaign trail to grift up a nest egg).
 
 ### Clinton (D)
 
-Clinton only wins if the Liberals win after three Capitalist policies have been put down (making Donald Trump a real threat to the American people, presumably one strong enough to hand Hillary Clinton the vote by default).
+Hillary Clinton only wins if the Liberals win after three Capitalist policies have been put down (making Donald Trump a real threat to the American people, presumably one strong enough to hand Hillary Clinton the vote by default).
 
 ### Trump (R)
 
-While lots of Republicans win by getting Trump elected CEO, Trump himself can only win if he got to be *President* and enact at least one Fascist policy.
+While lots of Republicans win by getting Donald J. Trump elected CEO of Capitalist America, Donald Trump himself can only win if he got to be *President* and enact at least one Fascist policy.
 
 While this is a very difficult win condition, Donald Trump can always just ignore that he's actually lost, and tell himself he won.
 
 ### Bernie (D)
 
-Bernie only wins if Democracy overtakes Capitalism - even if you told Donald Trump "You're Fired", that isn't enough to stop the rise of the billionaire class, the one percent of one percent.
+Bernie Sanders only wins if Democracy overtakes Capitalism - even if you told Donald Trump "You're Fired", that isn't enough to stop the rise of the billionaire class, the one percent of one percent.
 
 (Considering that the win conditions of other Democrats generally involve either targeting Donald Trump or enabling Capitalism, this puts Bernie at odds with most of the other members of his team.)
 
@@ -54,7 +54,7 @@ Ivanka Trump can only win if she's put down at least one Democratic policy as CE
 
 ### Ryan (R)
 
-Paul Ryan just plays by classic Republican strategy: wins if Capitalism overtakes Democracy or Donald Trump is elected CEO of America, loses if Democracy wins or if Donald Trump is Fired.
+Paul Ryan just plays by classic Republican strategy: wins if Capitalism overtakes Democracy or Donald Trump is elected Capitalist America's CEO, loses if Democracy wins or if Donald Trump is Fired.
 
 Like his Democratic counterpart in Bernie, since almost every other Republican is following some kind of compromised agenda (including Donald Trump, who *cannot* lowball his fascist allegiances like a traditional Hitler), Ryan's game can be more frustrating than anyone.
 
@@ -70,9 +70,9 @@ Joe Manchin loses if he is ever on a ticket that enacts a Democratic policy, unl
 
 ### Stormy (D)
 
-Stormy gets to know who Donald Trump is before anybody else: after the Republicans close their eyes and before Donald Trump puts his thumb up, Stormy gets to open her eyes and see the little thumb sticking up for a couple seconds.
+Stormy Daniels gets to know who Donald Trump is before anybody else: after the Republicans close their eyes and before Donald Trump puts his thumb down, Stormy gets to open her eyes and see the little thumb sticking up for a couple seconds.
 
-Stormy Daniels only wins if Donald Trump never gets to pass a Fascist policy (as President or CEO), or is Fired.
+Stormy only wins if Donald Trump never gets to pass a Fascist policy (as President or CEO), or is Fired.
 
 ### McConnell (R)
 
