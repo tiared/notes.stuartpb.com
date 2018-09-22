@@ -100,7 +100,21 @@ John Kelly distinguishes himself to other Republicans during the night phase by 
 
 After each turn (after the vote on Chris Christie, if present), John Kelly can choose to swap one of his voting cards with any other Republican (he gets to pick which cards).
 
-(To avoid exposing which players are Republicans when John Kelly is in play, all players must take care to not show more than one voting card face up.)
+For the purposes of simplicity and clarity, Kelly may not swap two Yes cards or two No cards (as that doesn't functionally do anything, and would just be a risky and/or petty waste of everybody's time).
+
+### Table Etiquette Rule
+
+To avoid exposing which players are Republicans when John Kelly is in play, all players must take care to not show more than one voting card face up. *The secret ballot process must be kept sacrosanct!*
+
+### Somewhat Small Tables suggestion
+
+Before the post-turn night phase required when John Kelly is in play, everybody at the table puts their voting cards in their hand, pinched between the thumb and forefinger. The player who is John Kelly should put the card they want to switch with another Republican at the bottom, face-down, so that, when the Republicans open their eyes, Kelly's card can be seen, and Kelly can reach out to swap it with the target Republican
+
+Reminder that everybody at the table must do this, even if John Kelly has been Fired, since the Democrats don't know who John Kelly is.
+
+### Somewhat Large Tables suggestion
+
+If not everybody at the table could potentially reach everybody else, but enough people could reach more or less within each other that it wouldn't be too much of a giveaway (and not so close that the movement involved wouldn't be too much of a giveaway itself), the swap can be done by having each person swapping cards (indicated by Kelly raising his card and nodding toward the Republican the card will be swapped with) place the card being swapped somewhere that they can reach: then, after all players open their eyes, they swap the positions of the two cards, then close their eyes again so the two players swapping cards can reach out and pick up the now-swapped cards.
 
 ### Booker (D)
 
@@ -108,6 +122,6 @@ Cory Booker is subject to a running Bipartisanship Score, and can only win if he
 
 If the two players disagree on a vote, then the score does not change (as either way, Booker's vote agrees with one and disagrees with the other, cancelling each other out): however, if the two *agree*, Booker's Bipartisanship Score either goes up or down by 2, based on whether his vote matches theirs.
 
-If the player to his left or right is eliminated, Booker's Bipartisanship Score now goes up or down by 1 *every turn*, based on whether or not his vote matches the remaining player on the other side.
+If the player to his left or right is eliminated, Booker's Bipartisanship Score now goes up or down by 1 *every turn*, based on whether or not his vote matches the remaining player on the other side. (His Bipartisanship Score still runs starting from whatever total was amassed when both players were present.)
 
 If the player to Booker's immediate left *and* right are eliminated, Booker is finally free, and is no longer subject to this restriction (even if he'd voted against both of them every time, he can still win).
