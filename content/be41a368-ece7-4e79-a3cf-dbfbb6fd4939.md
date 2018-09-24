@@ -86,7 +86,9 @@ If Michael Cohen is ever Investigated (either directly *or* as part of the Mulle
 
 Chris Christie distinguishes himself to the other Republicans during the night phase with a middle finger.
 
-After every turn, the Republicans take a secret vote on whether or not to keep Chris Christie. If the vote majority-fails (ie. more "No" votes than "Yes" votes), Chris Christie leaves the table immediately, and loses as if he were Fired.
+After every turn, the Republicans take a secret vote on whether or not to keep Chris Christie. If a majority of the voting Republicans vote "No", Chris Christie leaves the table immediately, and loses as if he were Fired. (If the vote is tied, Christie stays.)
+
+If Christie is eliminated in this secret vote, after everybody opens their eyes, the player who was Chris Christie must get up and leave the table immediately, **without saying anything** (just as he would after being Fired). The remaining players can ask if this player was Chris Christie, but all Christie is allowed to do is nod in response.
 
 ### Franken (D)
 
@@ -102,26 +104,36 @@ After each turn (after the vote on Chris Christie, if present), John Kelly can c
 
 For the purposes of simplicity and clarity, Kelly may not swap two Yes cards or two No cards (as that doesn't functionally do anything, and would just be a risky and/or petty waste of everybody's time).
 
-### Table Etiquette Rule
+If a Republican is eliminated (including Chris Christie, who is silently voted on before John Kelly makes his trade), Kelly cannot trade with either of the voting cards they leave behind.
+
+#### Table Etiquette Rule
 
 To avoid exposing which players are Republicans when John Kelly is in play, all players must take care to not show more than one voting card face up. *The secret ballot process must be kept sacrosanct!*
 
-### Somewhat Small Tables suggestion
+#### Somewhat Small Tables suggestion
 
 Before the post-turn night phase required when John Kelly is in play, everybody at the table puts their voting cards in their hand, pinched between the thumb and forefinger. The player who is John Kelly should put the card they want to switch with another Republican at the bottom, face-down, so that, when the Republicans open their eyes, Kelly's card can be seen, and Kelly can reach out to swap it with the target Republican
 
 Reminder that everybody at the table must do this, even if John Kelly has been Fired, since the Democrats don't know who John Kelly is.
 
-### Somewhat Large Tables suggestion
+#### Somewhat Large Tables suggestion
 
 If not everybody at the table could potentially reach everybody else, but enough people could reach more or less within each other that it wouldn't be too much of a giveaway (and not so close that the movement involved wouldn't be too much of a giveaway itself), the swap can be done by having each person swapping cards (indicated by Kelly raising his card and nodding toward the Republican the card will be swapped with) place the card being swapped somewhere that they can reach: then, after all players open their eyes, they swap the positions of the two cards, then close their eyes again so the two players swapping cards can reach out and pick up the now-swapped cards.
 
 ### Booker (D)
 
-Cory Booker is subject to a running Bipartisanship Score, and can only win if he has more votes that agree with the players to his immediate left and right than *disagree* with the players to his left and right.
+Cory Booker is subject to a running Bipartisanship Score, and can only win if he has more votes on record agreeing with the players to his immediate left and right than *disagreeing* with the players to his left and right. (If Booker has an equal number of votes agreeing *and* disagreeing with his neighbors, he can not win.)
 
 If the two players disagree on a vote, then the score does not change (as either way, Booker's vote agrees with one and disagrees with the other, cancelling each other out): however, if the two *agree*, Booker's Bipartisanship Score either goes up or down by 2, based on whether his vote matches theirs.
 
 If the player to his left or right is eliminated, Booker's Bipartisanship Score now goes up or down by 1 *every turn*, based on whether or not his vote matches the remaining player on the other side. (His Bipartisanship Score still runs starting from whatever total was amassed when both players were present.)
 
 If the player to Booker's immediate left *and* right are eliminated, Booker is finally free, and is no longer subject to this restriction (even if he'd voted against both of them every time, he can still win).
+
+### Rudy (R)
+
+Rudy Giuliani is subject to a running Partisanship Score, and can only win if he has more votes on record agreeing with Donald Trump than disagreeing with him. (If Rudy has an equal number of votes agreeing *and* disagreeing with Trump, he can not win.)
+
+### Palin (R)
+
+Sarah Palin can only win if she has been a candidate for CEO at least three times.
