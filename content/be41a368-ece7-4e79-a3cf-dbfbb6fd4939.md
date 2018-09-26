@@ -16,6 +16,8 @@ Unlike classic Secret Hitler, each player has a role with dedicated details:
 
 No matter which Party ultimately wins, Anthony "The Mooch" Scaramucci only wins by being Fired, so he can go off and build his brand (but, you know, he's not trying to suck his own dick about it).
 
+After being Fired, Mooch must not announce that he has won until the game has ended (nobody's going to want to buy a book by the guy who wanted to be fired, after all).
+
 ### Manafort (R)
 
 Paul Manafort loses if the Republicans win (causing him to be indicted after the election), or if the Democrats win before every player at the table has been a candidate for President at least twice (giving Manafort enough time on the campaign trail to grift up a nest egg).
@@ -32,7 +34,7 @@ While this is a very difficult win condition, Donald Trump can always just ignor
 
 ### Bernie (D)
 
-Bernie Sanders only wins if Democracy overtakes Capitalism - even if you told Donald Trump "You're Fired", that isn't enough to stop the rise of the billionaire class, the one percent of one percent.
+Bernie Sanders loses if Donald Trump is Fired. Bernie can only win if Democracy overtakes Capitalism through political means - even if you got rid of Donald Trump, that isn't enough to stop the rise of the billionaire class, the one percent of one percent.
 
 (Considering that the win conditions of other Democrats generally involve either targeting Donald Trump or enabling Capitalism, this puts Bernie at odds with most of the other members of his team.)
 
@@ -86,9 +88,17 @@ If Michael Cohen is ever Investigated (either directly *or* as part of the Mulle
 
 Chris Christie distinguishes himself to the other Republicans during the night phase with a middle finger.
 
-After every turn, the Republicans take a secret vote on whether or not to keep Chris Christie. If a majority of the voting Republicans vote "No", Chris Christie leaves the table immediately, and loses as if he were Fired. (If the vote is tied, Christie stays.)
+If all Republicans including Chris Christie vote the same way in an Election, Chris Christie can only win if he plays a Democratic policy between then and the end of the game. (If Christie plays a Democratic policy, then votes in agreement with the Republican bloc again, he cannot win unless he then enacts a *second* Democratic policy.)
+
+After every turn, all players close their eyes, the Republicans open them, then after a five-second countdown (by the last-elected President, or Putin if available) take a secret silent vote on whether or not to keep Chris Christie. If a majority of the voting Republicans vote "No", Chris Christie leaves the table immediately, and loses as if he were Fired. (If the vote is tied, Christie stays.)
 
 If Christie is eliminated in this secret vote, after everybody opens their eyes, the player who was Chris Christie must get up and leave the table immediately, **without saying anything** (just as he would after being Fired). The remaining players can ask if this player was Chris Christie, but all Christie is allowed to do is nod in response.
+
+Once Chris Christie has been eliminated, if there are no other Republicans with a post-turn secret phase (like John Kelly), the Republicans no longer meet in secret after each turn (as there's nothing left to discuss).
+
+#### Table Etiquette Rule
+
+Because Chris Christie's win/lose condition requires tracking a large number of votes, everybody should make sure everybody else at the table has had time to review every player's vote every time, possibly by going around the table and announcing their vote individually.
 
 ### Franken (D)
 
