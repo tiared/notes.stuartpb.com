@@ -4,7 +4,9 @@ This is a repository of works-in-progress and other not-ready-for-primetime writ
 
 I had previously kept a few of these as uncomitted files in my workspace for [Meditations][], back before they were merged into [Lean Notes][] (not comitting them because I felt they weren't finished enough to publish), but eventually decided I'd rather maintain them in a perpetual work-in-progress repository.
 
-All of the content in this repository can be found by follwing links from at least one of the following pages:
+Basically I came up with a notebook format that was easily publishable to the web, then slapped a domain name on it. The fact that these notes are public is, in general, an afterthought - it's less that there's anything to gain from making them public than that there's nothing to gain from not doing so (all it does is make it harder for me to share them, or refer to them in a pinch when I'm not signed in / haven't installed Evernote or Google Keep or Laverna or Penciltape or whatever the kids are using these days).
+
+All of the content in this repository can be found by following links from at least one of the following pages:
 
 - [Right Now][], the successor to my Planfile
 - [News][], the flip side of recording ephemeral state
