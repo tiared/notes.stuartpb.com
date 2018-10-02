@@ -6,6 +6,10 @@ Another way of maybe looking at it: this is where the sneak previews of what mig
 
 See also petlogs
 
+For why we call it News, see [News is History][]
+
+[News is History]: 3e6b05c2-7cd7-40a3-b16f-35e81c844718.md
+
 [postmortem]: f359a1e5-3e4f-4d30-8be3-0d0635c77ea4.md
 
 Structurally, I'm thinking I'll kind of structure it by, like, "episode" of stuff that I want to write about:
