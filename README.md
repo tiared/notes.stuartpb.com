@@ -9,15 +9,15 @@ All of the content in this repository can be found by follwing links from at lea
 - [Right Now][], the successor to my Planfile
 - [News][], the flip side of recording ephemeral state
 - [Musings][], a home for the kinds of aforementioned not-ready-for-prime-time meditations barfspace was originally created for
+- [Raw emotional stuff][raw]
 - [Project ideas][projects]
-- [Rage Against Late-Stage Capitalism][lsc], [Angst][], and just straight up [Rants][]
 - [Silly shit][]
 - [Big Ambitious Titles][big]
 - [the barfspace meta collection][meta], containing files that were kept separate in a directory called "docs" back when most of the content lived in named files at the root
 - [Appendices][], single-document clearinghouses for various bite-sized thoughts
 - [The Rest][]: for when I really, really, really don't want to classify something as any of the above
 
-hey I never said any of these were supposed to be any good, the whole point is just to have a place to put stuff in the hopes that some day it may spontaneously become Good Content
+Yeah, a lot of these are messy and could use an editor, or are woefully incomplete and in dire need of someone to help fill in the gaps (or at the very least take a stab at filling them in). If you think you'd like to do that, check out the [standing policy on contributions][contributions].
 
 ## Also
 
@@ -30,12 +30,11 @@ I'm putting [my-old-bad-ideas.md][] right *here* right now, because it should re
 [News]: content/afcfaa78-ef7e-429e-a2ea-0b5c7abaf7b7.md
 [projects]: content/8509d6ba-3cdd-418a-82ea-94cc044b6aef.md
 [big]: content/4adf317e-82f2-4241-9231-e6d23667aeaf.md
-[lsc]: content/edfa6a8f-ba13-42e8-a476-490464764157.md
 [Musings]: content/b3a81329-fbe5-42e6-be3c-5a836c5155e7.md
-[Angst]: content/462ad06e-1792-433f-a638-ef8084c36217.md
-[Rants]: content/485c287b-0587-4d0f-841f-cb62e3411efd.md
+[raw]: content/a281eee4-5e61-4026-846a-40fed7d38db9.md
 [Silly shit]: content/e1cae26c-3271-48ac-aa0c-a085fa4aa211
 [meta]: content/8c5a1d30-97d9-4395-85be-b6c8ba57b239.md
 [Appendices]: content/f161276f-fd3c-49bb-93b1-3e99aab9e266.md
 [The Rest]: content/ff47c3c8-6686-4225-ba27-23f61c604e0d.md
+[contributions]: content/5b5e1a92-bd30-4827-9196-48a9c07c165a.md
 [my-old-bad-ideas.md]: content/f3f3d6ba-6342-415a-9f3b-ab4f1d75a692.md
