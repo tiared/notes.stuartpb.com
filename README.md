@@ -14,7 +14,6 @@ All of the content in this repository can be found by following links from at le
 - [Raw emotional stuff][raw]
 - [Project ideas][projects]
 - [Silly shit][tumblr]
-- [Big Ambitious Titles][big]
 - [the barfspace meta collection][meta], containing files that were kept separate in a directory called "docs" back when most of the content lived in named files at the root
 - [Appendices][], single-document clearinghouses for various bite-sized thoughts
 - [The Rest][]: for when I really, really, really don't want to classify something as any of the above
@@ -31,7 +30,6 @@ I'm putting [my-old-bad-ideas.md][] right *here* right now, because it should re
 [Right Now]: content/41218b84-cd08-48a5-b91a-865e8b90c46a.md
 [News]: content/afcfaa78-ef7e-429e-a2ea-0b5c7abaf7b7.md
 [projects]: content/8509d6ba-3cdd-418a-82ea-94cc044b6aef.md
-[big]: content/4adf317e-82f2-4241-9231-e6d23667aeaf.md
 [Musings]: content/b3a81329-fbe5-42e6-be3c-5a836c5155e7.md
 [raw]: content/a281eee4-5e61-4026-846a-40fed7d38db9.md
 [tumblr]: content/e1cae26c-3271-48ac-aa0c-a085fa4aa211
