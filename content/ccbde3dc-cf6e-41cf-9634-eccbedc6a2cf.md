@@ -27,3 +27,13 @@ For anybody who hasn't played Fiasco, you don't need any kind of experience play
 From Digg to Snapchat to Instagram to Twitter to Reddit, everybody thinks putting this random feed crap front-and-center is going to be a good decision that users will come to love (presumably under the mistaken impression that people love this on Facebook), and they're *never* right (and, for at least one of these, stubbornly refusing to roll it back ended up demolishing their user base). Stop trying to fix something that wasn't broken.
 
 *(for a Trello survey on a "redesign" of the group page back to what it used to be, where one of the options for what I like best was "I don't see the feed any more" - I actually did send this)*
+
+---
+
+I had to amend the commit because the approach to aliases I was test-driving with it (as symlinks in a directory) didn't end up panning out (relative links all resolving under `aliases/` instead of `content/` was an unacceptable breaking side-effect), so I sadly had to ditch the original commit message for a0f4430, as this meant it no longer had any cover:
+
+    Add alias for random posts file
+
+    Yes, that is the only change included in this commit, don't check the patch, just move on with your day
+
+---
