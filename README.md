@@ -13,7 +13,7 @@ All of the content in this repository can be found by following links from at le
 - [Musings][], a home for the kinds of aforementioned not-ready-for-prime-time meditations barfspace was originally created for
 - [Raw emotional stuff][raw]
 - [Project ideas][projects]
-- [Silly shit][]
+- [Silly shit][tumblr]
 - [Big Ambitious Titles][big]
 - [the barfspace meta collection][meta], containing files that were kept separate in a directory called "docs" back when most of the content lived in named files at the root
 - [Appendices][], single-document clearinghouses for various bite-sized thoughts
@@ -34,7 +34,7 @@ I'm putting [my-old-bad-ideas.md][] right *here* right now, because it should re
 [big]: content/4adf317e-82f2-4241-9231-e6d23667aeaf.md
 [Musings]: content/b3a81329-fbe5-42e6-be3c-5a836c5155e7.md
 [raw]: content/a281eee4-5e61-4026-846a-40fed7d38db9.md
-[Silly shit]: content/e1cae26c-3271-48ac-aa0c-a085fa4aa211
+[tumblr]: content/e1cae26c-3271-48ac-aa0c-a085fa4aa211
 [meta]: content/8c5a1d30-97d9-4395-85be-b6c8ba57b239.md
 [Appendices]: content/f161276f-fd3c-49bb-93b1-3e99aab9e266.md
 [The Rest]: content/ff47c3c8-6686-4225-ba27-23f61c604e0d.md
