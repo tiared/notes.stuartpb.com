@@ -15,6 +15,8 @@ For why we call it News, see [News is History][]
 Structurally, I'm thinking I'll kind of structure it by, like, "episode" of stuff that I want to write about:
 
 - End of September 2018: [The Week Before the Weddings][2018W39]
+- [Halloweek 2018][]
 
 [Right Now]: 41218b84-cd08-48a5-b91a-865e8b90c46a.md
 [2018W39]: b40a356f-6296-41ca-b832-4401264992ce.md
+[Halloweek 2018]: c66e2f2b-ad37-4c3b-8abb-706c595c05d6.md
