@@ -17,6 +17,7 @@ All of the content in this repository can be found by following links from at le
 - [the barfspace meta collection][meta], containing files that were kept separate in a directory called "docs" back when most of the content lived in named files at the root
 - [Appendices][], single-document clearinghouses for various bite-sized thoughts
 - [The Rest][]: for when I really, really, really don't want to classify something as any of the above
+- [Loose Notes][]: for ideas that don't even warrant their own page, and don't already have a suitable appendix page I can figure out right when I need to start writing them. I can tear them off and give them pages (possibly sorted, even) or move them to an Appendix later.
 
 Yeah, a lot of these are messy and could use an editor, or are woefully incomplete and in dire need of someone to help fill in the gaps (or at the very least take a stab at filling them in). If you think you'd like to do that, check out the [standing policy on contributions][contributions].
 
@@ -36,5 +37,6 @@ I'm putting [my-old-bad-ideas.md][] right *here* right now, because it should re
 [meta]: content/8c5a1d30-97d9-4395-85be-b6c8ba57b239.md
 [Appendices]: content/f161276f-fd3c-49bb-93b1-3e99aab9e266.md
 [The Rest]: content/ff47c3c8-6686-4225-ba27-23f61c604e0d.md
+[Loose Notes]: content/434dd429-b16d-4924-996f-aaf2ebff29ef.md
 [contributions]: content/5b5e1a92-bd30-4827-9196-48a9c07c165a.md
 [my-old-bad-ideas.md]: content/f3f3d6ba-6342-415a-9f3b-ab4f1d75a692.md
