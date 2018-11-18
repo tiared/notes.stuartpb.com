@@ -32,6 +32,10 @@ While lots of Republicans win by getting Donald J. Trump elected CEO of Capitali
 
 While this is a very difficult win condition, Donald Trump can always just ignore that he's actually lost, and tell himself he won.
 
+### possible alternate Trump rule
+
+if Secret Trump ever loses an election, they can no longer win with the Fascists and should just do whatever they want to play against everyone, cf http://www.latimes.com/politics/la-na-pol-trump-absent-20181113-story.html
+
 ### Bernie (D)
 
 Bernie Sanders loses if Donald Trump is Fired. Bernie can only win if Democracy overtakes Capitalism through political means - even if you got rid of Donald Trump, that isn't enough to stop the rise of the billionaire class, the one percent of one percent.

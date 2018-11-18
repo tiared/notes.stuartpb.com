@@ -37,3 +37,15 @@ I had to amend the commit because the approach to aliases I was test-driving wit
     Yes, that is the only change included in this commit, don't check the patch, just move on with your day
 
 ---
+
+*deleted reply to [this comment on Reddit](https://www.reddit.com/r/Bandnames/comments/91n1rd/fantastic_beats_and_where_to_find_them/e2zxoes/?context=8&depth=9) because on top of being dumb it was immediately downvoted, either by a user or by Reddit's algorithmic adversarial line noise*
+
+Okay, this was three months ago and nobody is looking or cares, but I want to take a second and explain this one, because it took me a second upon reading it again three months later, because sometimes I go back and read my own posts to make sure I wasn't out of line in the moment and shit, you know.
+
+Not only does "Battlestar Galactica" come *before* "Bears" alphabetically, but "Beats" would be on the *other side* of "Bears" from "Battlestar Galactica" (since "t" comes alphabetically *after* "r", the next letter after "s"), so it wouldn't be in the inclusive range *regardless* of span order.
+
+see, that's what I was saying, just that I said it in three words, and I left it to the reader to connect the dots on, because, I'm telling you, that freeze-frame shit is funny
+
+I don't know, sorry, I just find incredibly extreme and meticulous pedanticism funnier than the original joke, I'm built wrong like that
+
+anyway this wasn't directed at the user I'm replying to, because I'm not really sure how many levels of negation "False" was supposed to be evaluated through, but my assertion of invalidity is ultimately True
