@@ -17,8 +17,10 @@ Structurally, I'm thinking I'll kind of structure it by, like, "episode" of stuf
 - End of September 2018: [The Week Before the Weddings][2018W39]
 - [Halloweek 2018][]
 - [November 14, 2018][]
+- [Probably going to be the last one of these][LWOD]
 
 [Right Now]: 41218b84-cd08-48a5-b91a-865e8b90c46a.md
 [2018W39]: b40a356f-6296-41ca-b832-4401264992ce.md
 [Halloweek 2018]: c66e2f2b-ad37-4c3b-8abb-706c595c05d6.md
 [November 14, 2018]: 837954f7-3214-4304-8ebe-364266ca4bc1.md
+[LWOD]: bc599ccb-1ca7-4319-999a-6d800dba3cca.md
