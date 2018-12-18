@@ -33,10 +33,10 @@ I'm putting [my-old-bad-ideas.md][] right *here* right now, because it should re
 [projects]: content/8509d6ba-3cdd-418a-82ea-94cc044b6aef.md
 [Musings]: content/b3a81329-fbe5-42e6-be3c-5a836c5155e7.md
 [raw]: content/a281eee4-5e61-4026-846a-40fed7d38db9.md
-[tumblr]: content/e1cae26c-3271-48ac-aa0c-a085fa4aa211
+[tumblr]: content/e1cae26c-3271-48ac-aa0c-a085fa4aa211.md
 [meta]: content/8c5a1d30-97d9-4395-85be-b6c8ba57b239.md
 [Appendices]: content/f161276f-fd3c-49bb-93b1-3e99aab9e266.md
-[The Rest]: content/ff47c3c8-6686-4225-ba27-23f61c604e0d.md
-[Loose Notes]: content/434dd429-b16d-4924-996f-aaf2ebff29ef.md
+[The Rest]: content/fd071a93-8373-4adc-84c6-ae781c7d0442.md
+[Loose Notes]: content/ff47c3c8-6686-4225-ba27-23f61c604e0d.md
 [contributions]: content/5b5e1a92-bd30-4827-9196-48a9c07c165a.md
 [my-old-bad-ideas.md]: content/f3f3d6ba-6342-415a-9f3b-ab4f1d75a692.md
