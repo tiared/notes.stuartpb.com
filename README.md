@@ -23,7 +23,7 @@ Yeah, a lot of these are messy and could use an editor, or are woefully incomple
 
 ## Also
 
-I'm putting [my-old-bad-ideas.md][] right *here* right now, because it should really be expanded once I've finished mutating the hierarchy like this and have a bit of a better writing-about-barfspace situation set up than the old "docs" folder
+[my-old-bad-ideas.md][], which has a lineage dating back to when these files actually had *names*, is currently home base for a plan I'm developing to unify all my previous projects into this one (having already merged a bunch of them into Lean Notes).
 
 [Lean Notes]: https://github.com/stuartpb/leannotes
 [Meditations]: https://github.com/stuartpb/leannotes/blob/master/content/8f2359ae-186f-4878-b5e5-33f3c177e6fc.md
