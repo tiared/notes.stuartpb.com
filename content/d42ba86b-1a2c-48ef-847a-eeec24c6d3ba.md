@@ -51,13 +51,13 @@ Bell has a light strip under the hood that turns on when Bell wakes.
 
 The wake phrase is "Bell Ahoy Hoy"
 
-The reason it's "Bell Ahoy Hoy", and no
+The reason it's "Bell Ahoy Hoy", and not just "Bell", is because that'd make it impossible to talk about Bell in the act, as anybody who's ever tried to talk about Alexa has discovered (see also why Google uses "OK Google" and not just "Google" - this was something that began with Google Glass's "OK Glass", not a lot of people know that).
 
 ### Activation sounds
 
 *Not yet implemented.*
 
-The first time Bell is activated, Bell makes the Macintosh 2000 "Bahhhhhh" sound.
+The first time Bell is activated via the ambient mic, Bell makes the Macintosh 2000 "Bahhhhhh" sound.
 
 ### Jeopardy wake
 
@@ -66,6 +66,8 @@ The first time Bell is activated, Bell makes the Macintosh 2000 "Bahhhhhh" sound
 If Bell hears "the reason it's" or "the wake word is" before "Bell, Ahoy Hoy", Bell will still activate, but will make the Jeopardy buzz-in noise.
 
 This is the one mode of operation where Bell can time out, and the light strip proceeds to narrow to the center like Jeopardy.
+
+This can be a prompt for a lot of material about Watson that I don't feel like writing down right now.
 
 ## Normal operation
 
@@ -76,6 +78,16 @@ Bell has three ways to trigger every response:
 - The normal way, based on a line from the act
 - The "Cuil Trigger", based on something voice recognition code should be tested against
 - A keypad sequence, in case neither works
+
+## Dialing
+
+*Not yet implemented.*
+
+Dialing digits on the keypad plays the DTMF tones on the ambient speaker (or maybe the Operator Horn, which would make more sense but be less atmospheric).
+
+Maybe flipping the Operator Horn upside down (assuming I choose to go with a proper handset) can switch which end they come out of, ie. when the phone is held upside down they come out the ambient, meaning that I could just pick up the phone, and if I want to do Towelie's "That's the way to Funkytown" joke or just wow the audience, I just have to remember to hold the phone a certain way
+
+Yeah, that means we have a tilt switch / accelerometer in the freaking handset, which would be *amazing*
 
 ## Operator Horn
 
@@ -117,13 +129,15 @@ Second and third error messages are HAL's "I'm afraid I can't do that" from 2001
 
 *Not yet implemented.*
 
-Bell will stop listening whenever the directional mic is off the hook and a key is pressed.
+Bell will stop listening for commands on the Ambient Mic when the Operator Horn is off the hook.
+
+Bell will stop listening on the Operator Horn when a key is pressed.
 
 Bell will resume listening when the horn is replaced.
 
 ## Notes and Startup
 
-Bell caches the show's notes on startup.
+Bell caches the show's written notes on startup. (Really, Bell caches *all* my notes, but Bell *indexes* the notes from the preconfigured fixed root UUID for this show, and commands involving notes
 
 ---
 
@@ -169,6 +183,18 @@ This is to address the scenario where Bell's first wake is accidental: Bell will
 *Not yet implemented.*
 
 Plays the part of Tale as Old as Time when Mrs. Potts sings "Beauty and the Beast!"
+
+## Where was I? / Location history (1234*)
+
+Bell records the entire act - including the part where I ask Bell to replay the act to me.
+
+This bit can be cued by voice, but it really works a lot better if done on the Operator Horn.
+
+When this command is cued, Bell cuts the recording file, then starts a new one recording all the stuff I say while I review the recording, and afterward.
+
+Bell does not advance to the current position during playback (asking Bell where I currently am cuts the log), to avoid "Spaceballs Syndrome".
+
+Oh, by the way, stuff like this is why I asked you to turn off your phones.
 
 ## Show (me/us/them) your impression of HAL 9000 / Open the pod bay doors (49000)
 
@@ -294,15 +320,19 @@ If the brick punchline is still pending, only announces the current date, time z
 
 ## How prepared am I / Sledge Hammer Peter Gabriel ()
 
-## What is the deal with airline food? /
+This mi
 
-Begins thing
+## What is the deal with airline food? / Flights to Flavortown (61453)
+
+(I'll look this one up on the listing, it's the decimal value of 0xf00d)
+
+Begins thing about airline food
 
 The deal with airline food is that it doesn't come with your flight any more!
 
-## Report statistics / One million deaths (15343)
+## Report statistics / One million deaths (16343)
 
-(that's 1KDIE)
+(that's 1MDIE)
 
 Spits out, in random order the current number of programmed modules, GPIO pins in use, audio clips by duration and count,
 
@@ -312,9 +342,11 @@ Spits out, in random order the current number of programmed modules, GPIO pins i
 
 Does exactly what it sounds like.
 
-The mark is "end note", just to freak people out about how seriously I take Bell's function on stage (especially after I follow the first time I cue this with "Dearest Mark..."), where he has an explicitly-coded rule to sing "Beauty and the Beast" after I say the words "Food near me".
+The mark is "end note", just to freak people out about how seriously I take Bell's function on stage (especially after I follow the first time I cue this with "Oh my dearest Mark..."), where he has an explicitly-coded rule to sing "Beauty and the Beast" after I say the words "Food near me".
 
 Bell makes new notes (to a prerecorded index page), then commits them to a new branch for the show in its local Git repository // audio recorded to file in separate off-repo directory
+
+Considering that I'll probably do this on the Operator Horn a lot, it'll probably just be "Record note".
 
 ## Prepare to end show on my signal / Directions to home (54321)
 
@@ -346,12 +378,20 @@ Triggers a lights shutdown, explains that something happened I wasn't expecting 
 
 The primary trigger for this is because the one scenario I could see myself needing to activate this is if some techbro in the audience heckles me after hearing about rebeccapurple. Rebecca's last wish was the same wish as me, and all the other women I've known who "burned out" of tech: to be seen as mature. That's why it had to be rebeccapurple. She's Rebecca, not Becca. Honoring her wish, letting her be seen as the mature girl she wanted to be, is what let her spirit rest. And when people argue the change shouldn't have been made - that symbolic gestures are *too dangerous* (sure, escalation is a danger to the forces of change, but *change* is the danger to the forces of *stagnation*) - that this story was an *unfortunate consequence of honoring her at all* - that spirit, which lives on in every woman in tech who sticks it out and fights back against the insurmountable force of toxic masculinity, is yanked from that rest.
 
-Cancel destruct with the Vulcan nerve pinch of 6, 2, and 8
+Cancel destruct with the Vulcan nerve pinch of my birthday
 
-## Help Police Murder / Zero zero zero destruct one (keypad code is twelve digits long and a secret)
+## Help Police Murder / Zero zero zero destruct one (000*1)
 
-Plays the self-destruct audio from the Nostromo. After thirty seconds, the keypad is electrified.
+Plays the self-destruct audio from the Nostromo.
+
+If I feel like adding the current for this capability, after thirty seconds, the keypad is electrified.
 
 The option to override self-destruct expires after five minutes, and the tear gas grenade inside Bell goes off... I was gonna say "after ten minutes", but actually, there's no need to take more than five minutes.
 
-This command can not be triggered by the Operator Horn.
+## Arm tear gas for deployment / Jumpin' Jack Flash (keypad code is twelve digits long and a secret)
+
+Announces (over the loudspeaker, so I can hear if some wiseguy is trying to activate this) that the tear gas is armed, do you wish to deploy? Can be cancelled as "No" or "Cancel", and can be triggered immediately with "Yes, affirmative."
+
+If triggered by keypad, arms the grenade and gives a five-second countdown before deployment. Re-entering the correct sequence (kept in memory when the code is entered, because it's hashed in the codebase)
+
+Requires a password kept in Bell's secret configuration (possibly hashed, if feasible). I keep this password in my pocket, in case I forget.
