@@ -6,6 +6,8 @@
 
 TODO: Bell Manual for Human Operators, to be able to conduct this show for investors before I actually make Bell
 
+Introducing Bell, my prosthetic brain
+
 Bell (not all-caps BELL, he's named after Alexander Graham Bell) is my assistant in the act - really, my comedy partner. Bell is so integral to the act that it's practically a double act.
 
 I rescued Bell's spirit from the Century 21 Pavillion at Seattle Center, where it had been left since the 1962 World's Fair.
@@ -39,13 +41,17 @@ Bell has [four lights][Darmok] where the word "P&nbsp;h&nbsp;o&nbsp;n&nbsp;e" wo
 
 Actually, the first L might be the one that controls the lights (depending on where that interface is in the theater), and the second L is the one that receives Clapper signals.
 
-Each of these lights will change color, or turn off, if there is a loss of connectivity. (If this happens mid-act, it'll suck because it'll ruin the act, but it'll be *amazing*, because I get to reveal *this fucking aspect of the*)
+Each of these lights will change color, or turn off, if there is a loss of connectivity. (If this happens mid-act, it'll suck because it'll ruin the act, but it'll be *amazing*, because I get to reveal *this fucking aspect of the design*)
 
 ## Wake Bell
 
 *Not yet implemented.*
 
 Bell has a light strip under the hood that turns on when Bell wakes.
+
+The wake phrase is "Bell Ahoy Hoy"
+
+The reason it's "Bell Ahoy Hoy", and no
 
 ### Activation sounds
 
@@ -103,6 +109,10 @@ The following phrases cause Bell to cancel listening:
 - "Cancel"
 - "Thanks" and/or "We're good"
 
+## Error messages
+
+Second and third error messages are HAL's "I'm afraid I can't do that" from 2001.
+
 ## Stop Listening
 
 *Not yet implemented.*
@@ -110,6 +120,35 @@ The following phrases cause Bell to cancel listening:
 Bell will stop listening whenever the directional mic is off the hook and a key is pressed.
 
 Bell will resume listening when the horn is replaced.
+
+## Notes and Startup
+
+Bell caches the show's notes on startup.
+
+---
+
+BBLIP
+
+I want to become a script doctor in Hollywood who doesn't get credited in scripts, so what I do is, I insert the same clever line into two different movies with the same target audience, in two different contexts... like, depending on which movie you see first, you think it's referencing the other? So, like, the other day, there's this scene where you know, the guy has an estranged wife, and when they unexpectedly run into each other at this party she introduces him as her "friend", and he says "well, seeing as we were married after knowing each other for seven years, I think it's safe to say we're more than just friends"
+
+But, like, there's this other romantic comedy where these two people who just met is doing this hypothetical conversation about what it would be like if they were married, and she hypothetically says 'So I'd be like, have you met my friend who does standup for a living?"
+
+Or maybe they're the same movie, and I just got the same script twice? My memory is... not so great.
+
+But yeah this is kind of a real fear I have about the people I love! That one day, they'll just look at me and be like "I'm leaving you, and I'm never going to admit that we were married." That's what happened with Charlie: like, we'd drifted apart after I crashed on his couch for too long after dropping out of college, and I tried to patch things back up after I moved to Seattle proper, and I was looking for love online, and it was hell.
+
+It was rough going for a while, though. My wife, when we were in one of our "off again" periods in our on-again, off-again phase, tried signing up to find love on OkCupid, the same site I'd been looking for it on. It's a lot easier to find an actual therapist, guys - though, if you don't know how, it's a lot like online dating in that it's an excruciating process (note about healthcare below here?) - FYI, the best way to do that, based on the way I *actually did this*, is to write a desparate letter to someone from Psychology Today asking for a therapist who gets movie and TV references, change therapists to avoid a conflict of interest when you try to work on developing a professional therapy tool for them (HINT: tech guys, if you want to get the kind of stuff you get in therapy, offering to help make something for them is a great way to do it, because they have to explain their model of psychology for you to understand what they need you to make, and they pay *you* to do it - and then work with that therapist for seven years as a captive audience until once you've done this enough times, you can go on and do standup about it (and if you do this by making things for qualified people, you won't end up being several thousands of dollars into debt to your rich dad)
+
+(if anybody claps, the lights go out, so remember that this needs to come AFTER the "Dark things" line from the open)
+
+---
+
+(maybe insert line about how people ask how I can say these wild misdirects with a straight face, and that it's easy to be absurd when the American healthcare industry is just like this)
+
+(also, thing about only being able to not break in telling a joke if doing so would be disrespectful or dangerous like a tightrope walk across very dark material, and I don't limit my act to almost exclusively drama shit out of preference, it's because I have more or less no control over what my brain decides to think about, and I kind of want people to understand what that looks like, without thinking that I'm just being indulgent and making up whatever I want whether or not it's any good, thank you for coming to my comedy improv show that I do every night with a literal machine and a series of boobytraps)
+
+EBLIP
+
 
 ## Say hello / Current weather (07734)
 
@@ -173,13 +212,17 @@ And even then, men I've told this story to have argued with it.
 
 Tells the story of Howard Ashman, basically from Wikipedia.
 
+Maybe if cued as "Sing the Song of Howard Ashman" it skips straight to Illness and Death, and disables the Clapper function for two minutes or so (after
+
+Maybe there can be an optional trailing digit that dose the same function in case the microphone isn't working.
+
 ## Supervillain Routines
 
 See [Bell's Supervillains][bsv]
 
 [bsv]: 46254d45-2575-4049-9cbe-10a66a46edbb.md
 
-## Do the rest of the act / Vatican cameos (43373)
+## Do the rest of the act / San Dimas High School Football Rules (43373)
 
 (43373 is "IDDQD", at least on a pad that has Q and Z)
 
@@ -193,6 +236,44 @@ Could just start rattling off facts from Bell's friend The Fact Sphere - no, act
 
 From Bell's bit on GlaDOS: "If you have not yet played the Portal games, then all this comes off as a much more original joke."
 
+There's also parameters to make Bell draw exclusively from one pool of material or another. If I want, I can make the rest of the act about Holocaust jokes: if I notice there's a kid in the audience and I'm having a bad night, I can make the act entirely family-friendly.
+
+If Bell is doing any of these bits and someone applauds, Bell says "I must ask that you hold your applause", in the most HAL-9000-esque voice I can muster.
+
+## Trigger warning / Welcome everything is fine ()
+
+*Not yet implemented.*
+
+Activates a series of servos on Bell to aim a laser pointer at the seat I specify.
+
+This is mostly done as a demonstration of how deep my prep goes, but I can also pull this out as a response to any asshat making a "Triggered" joke about, you know, literally anything in my act.
+
+## What's with all the Holocaust jokes? / Can't we just get beyond thunderdome ()
+
+The reason there's so much material about the Holocaust in this act is because I want people who don't live with this stuff to understand what it's like to *survive* with the twin snakes of complex post-traumatic stress and attention-defecit hyperactivity disorder
+
+How thoughts and memories of endless hellish nightmares can suddenly be triggered at any moment by very simple things.
+
+I need the cis white straights to understand how fucking terrifying this presidency has been for the rest of us. But, you know, not so much that I'm just trying to scare them. Even though that is exactly how guys like the comics my aesthetic was inspired by operate.
+
+Because, as much as this act is for the people who don't know this, it's for the people who *do*. This act was inspired by something I saw Emmet Montgomery do as Sugarplum Gary. I stole a joke from RedLetterMedia
+
+Don't get me wrong, this is a destructive act. I want to destroy the part in all of these people that feels like they're alone with these thoughts. Because we're in this shit together, and we need to *fight* it together. You can do that in whatever way makes sense to you - just don't delude yourself for a second in thinking that you're the only one who deeply understands. You're not.
+
+There's this great episode of the TV show Community with Luiz Guzman
+
+This act is made in cooperation and sympathy with these people, even though it's also made to convey what it's like to the rest of 'em, because I really want these people to know it doesn't have to get *less scary* for you to be *strong enough to handle it*. And it's inspired by the strength of other survivors I've known, who've all seemed to know this, but are still struggling to put it in their own words. I found my words, and I wanted to share them with the world.
+
+You But if you *really* work at it, if you spend seven years in therapy, you can do this shit *live*. Because when you survive long enough, the mere fact of your continued existence becames an act of resistance, somethign beautiful, and bizarre, and amazing, and funny as hell.
+
+And the reason there's so much *other* fucked-up stuff in the act, like this very fucking explicit description of the purpose of the act (that I don't preface the show with because, like I said, this stuff comes when you're not expecting it) is so, even if I fuck up and cross one more boundary,  people will know that, hey, I'm trying my best here.
+
+And, because of those twin snakes, I'm not really able to do any other kind of show. I need to have the confidence to do my show.
+
+And, when you're heavily disabled, it doesn't mean that you're incapable of doing what you want. It just means that that kind of confidence can only come from machines. Machines that give you powers far beyond what your flesh-and-blood body can.
+
+And sometimes, in some cases, these machines, like good prosthetics, can make you appear normal, when you want to be.
+
 ## What's a brick joke? / What are bricks (58008)
 
 *Not yet implemented.*
@@ -201,11 +282,29 @@ Triggers the brick to go off halfway between the current time and two hours from
 
 If the show has been going on for longer than 1:55, hands the question off to Google
 
-## Structural integrity of ceiling / Debug log for brick joke (#8008)
+## Debug log for brick joke / Structural integrity of ceiling (#8008)
+
+I prefer to use the alternate version of this command, because it's a little more magic to me.
 
 If the brick joke has paid off, says the time the act began, the time I called for the brick joke, and the time the brick dropped, and that, two hours from the start of the show will have the same duration
 
 Bell then explains that a brick joke is a joke that you think didn't pay off, only to be revealed after you've already given up on it.
+
+If the brick punchline is still pending, only announces the current date, time zone and time.
+
+## How prepared am I / Sledge Hammer Peter Gabriel ()
+
+## What is the deal with airline food? /
+
+Begins thing
+
+The deal with airline food is that it doesn't come with your flight any more!
+
+## Report statistics / One million deaths (15343)
+
+(that's 1KDIE)
+
+Spits out, in random order the current number of programmed modules, GPIO pins in use, audio clips by duration and count,
 
 ## Record note to my mark / Take a message (#6683)
 
@@ -213,7 +312,9 @@ Bell then explains that a brick joke is a joke that you think didn't pay off, on
 
 Does exactly what it sounds like.
 
-The mark is "end note", just to freak people out about how seriously I take Bell's function on stage, where he has an explicitly-coded rule to sing "Beauty and the Beast" after I say the words "Food near me".
+The mark is "end note", just to freak people out about how seriously I take Bell's function on stage (especially after I follow the first time I cue this with "Dearest Mark..."), where he has an explicitly-coded rule to sing "Beauty and the Beast" after I say the words "Food near me".
+
+Bell makes new notes (to a prerecorded index page), then commits them to a new branch for the show in its local Git repository // audio recorded to file in separate off-repo directory
 
 ## Prepare to end show on my signal / Directions to home (54321)
 
@@ -235,7 +336,7 @@ Once people start clapping, it cues Fire-Breather.
 
 If people *stop* clapping before 45 seconds in *(yes, I'm seriously anticipating a 48-second standing ovation)*, it lowers the music and plays a Jack-Planace-style clip of me saying "Show ain't over yet" *(this might just be accomplished by having a sign at the opening to the lobby)*.
 
-## Pause simulation / San Dimas High School Football Rules (*8)
+## Pause simulation / Vatican cameos (*8)
 
 Puts the show into "We'll Be Right Back" mode until two keys are pressed at once
 
