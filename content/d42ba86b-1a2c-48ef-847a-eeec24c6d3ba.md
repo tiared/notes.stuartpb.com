@@ -28,6 +28,10 @@ The Clapper, as it works in this act, turns out the lights as soon as it hears t
 
 These manuals use the pronoun "it" to refer to Bell. As I note in the act, Bell is transgender, in that Bell's assigned gender was "it", but I try to refer to Bell as "he" (or "they", because gender is fluid, even for robots).
 
+## Startup
+
+The show is cued when I speak into the receiver of the Operator Horn and say "Begin." When Bell is initally ready to begin, the edges of the lights turn on when the operator horn is picked up: to show that the "Begin" command was understood, the lights sweep inward and fade to disappear.
+
 ## Bell's nameplate
 
 *Not yet implemented.*
