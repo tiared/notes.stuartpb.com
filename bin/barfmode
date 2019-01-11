@@ -85,10 +85,14 @@ watch-for-changes () {
     DANCESTEP=$(( (DANCESTEP + 1) % ${#DANCEMOVES[@]} ))
 
     if uncommitted-changes; then
-      echo
+      echo # TODO: Replace this with:
+        # confirm-no-orphans (or "run-integrity" or some pre-commit-hook thing)
+        # For our purposes, this is fine
+        # and also do that in roll-index
       roll-index
       autocommit
     else
+      # TODO: (and I'm pretty sure I described this in some GitHub issue)
       sleep "$TICK"
     fi
   done
