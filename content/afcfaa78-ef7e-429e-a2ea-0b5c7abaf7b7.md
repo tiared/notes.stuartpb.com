@@ -1,26 +1,20 @@
-# What's New with Stuart P. Bentley
+# moments in time
 
-This is going to be the flip side of [Right Now][]: documenting the history of what's *happened* that's *around* that state, day-to-day life stuff that gives context to what I'm up to, but isn't critical to understanding it - things like that. (In [postmortem][] terms, this was stuff I had in my planfile before, and it was one of the things that I felt made it eventually get too burdensome to maintain at a consistent level) Tonally, I'm expecting this to be more of a touchy-feely checkins kinda space.
+Here's some posts where the main thing I can think about them is "well, here are some thoughts that will only ever really make sense right now"
 
-Another way of maybe looking at it: this is where the sneak previews of what might pop up in Right Now will be, because I'll write about thinking about it here.
+If you like all this shit you'll probably like [all my other emo shit][emo]
 
-See also petlogs
-
-For why we call it News, see [News is History][]
-
-[News is History]: 3e6b05c2-7cd7-40a3-b16f-35e81c844718.md
-
-[postmortem]: f359a1e5-3e4f-4d30-8be3-0d0635c77ea4.md
-
-Structurally, I'm thinking I'll kind of structure it by, like, "episode" of stuff that I want to write about:
+[emo]: a281eee4-5e61-4026-846a-40fed7d38db9.md
 
 - End of September 2018: [The Week Before the Weddings][2018W39]
 - [Halloweek 2018][]
 - [November 14, 2018][]
-- [Probably going to be the last one of these][LWOD]
+- [Last week of December 2018][LWOD]
+- Mid-January 2019: [kinda thinking about becoming a Freemason][Jan2019] (I ended up deciding against it)
 
 [Right Now]: 41218b84-cd08-48a5-b91a-865e8b90c46a.md
 [2018W39]: b40a356f-6296-41ca-b832-4401264992ce.md
 [Halloweek 2018]: c66e2f2b-ad37-4c3b-8abb-706c595c05d6.md
 [November 14, 2018]: 837954f7-3214-4304-8ebe-364266ca4bc1.md
 [LWOD]: bc599ccb-1ca7-4319-999a-6d800dba3cca.md
+[Jan2019]: dc82b319-590a-416d-9ca2-a41b489892bc.md
